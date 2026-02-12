@@ -1,0 +1,30 @@
+{
+  "date": "2026-02-12",
+  "timestamp": "2026-02-12T19:15:00+05:30",
+  "hours_active": 0.3,
+  "hours_by_category": {
+    "setup": 0.3,
+    "coding": 0.0
+  },
+  "top_apps": {
+    "Terminal": 709,
+    "Google Chrome": 149,
+    "Finder": 47,
+    "Code": 4
+  },
+  "top_websites": {},
+  "git_activity": {
+    "total_commits": 2,
+    "by_project": {
+      "Tasks": 1,
+      "netgear-fe": 1
+    }
+  },
+  "activity_watch": {
+    "buckets": [
+      "aw-watcher-afk_Abishs-MacBook-Air.local",
+      "aw-watcher-window_Abishs-MacBook-Air.local"
+    ],
+    "events_count": 61
+  }
+}
