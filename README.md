@@ -1,0 +1,67 @@
+# Internship Work Log
+
+Automated daily work tracking powered by ActivityWatch + AI.
+
+## Structure
+
+```
+Tasks/
+└── logs/
+    └── 2025/
+        └── feb/
+            ├── 2025-02-12.md       # Daily analyzed log
+            ├── 2025-02-12-activity.json  # Raw data
+            └── index.md            # Monthly summary
+```
+
+## How It Works
+
+1. **ActivityWatch** runs in background, capturing:
+   - Applications used
+   - Websites visited
+   - Window/activity data
+   - Away/AFK time
+
+2. **Daily `/daily-log` command**:
+   - Queries ActivityWatch API
+   - Collects git activity from all projects
+   - AI analyzes and categorizes everything
+   - Generates human-readable daily log
+   - Saves raw data as JSON
+   - Auto-commits to GitHub
+
+3. **Zero manual entry** - AI deduces:
+   - What you worked on (from window titles, commits)
+   - Time spent per category (coding, meetings, research)
+   - Completed tasks (from commit messages)
+   - In-progress work (from open files)
+   - Tomorrow's priorities (from context)
+
+## Usage
+
+Start ActivityWatch:
+```bash
+brew services start activitywatch
+# or
+open -a ActivityWatch
+```
+
+Generate daily log:
+```
+/daily-log
+```
+
+View dashboard:
+```bash
+open http://localhost:5600
+```
+
+## Data
+
+- **100% local** - ActivityWatch stores everything locally
+- **Private** - Only anonymized data goes to GitHub
+- **Open source** - ActivityWatch: https://activitywatch.net
+
+---
+
+*Auto-generated daily - no manual updates needed*
