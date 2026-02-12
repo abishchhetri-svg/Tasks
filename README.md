@@ -1,6 +1,6 @@
 # Internship Work Log
 
-Automated daily work tracking powered by ActivityWatch + AI.
+Weekly Review: https://docs.google.com/document/d/1VzIM9DgTUWZULfrtl9EayLLfifBnx7pko4AL_q3dMs8/edit?pli=1&tab=t.0
 
 ## Structure
 
