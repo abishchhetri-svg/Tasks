@@ -46,15 +46,24 @@ brew services start activitywatch
 open -a ActivityWatch
 ```
 
-Generate daily log:
-```
-/daily-log
-```
+### Commands (say these to Claude)
+
+| Command | What It Does |
+|---------|--------------|
+| "Generate my daily work log" | Full ActivityWatch + Git analysis |
+| "Add this to my daily work" | Quick append to today's log |
+| "Summarize this and update to my daily work" | Summarize conversation & update |
 
 View dashboard:
 ```bash
 open http://localhost:5600
 ```
+
+### Features
+
+- **Smart file handling**: Checks if today's log exists, updates instead of overwriting
+- **Quick add**: Instantly add entries without full analysis
+- **Auto-commit**: All updates automatically pushed to GitHub (no confirmation needed)
 
 ## Data
 
