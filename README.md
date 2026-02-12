@@ -7,10 +7,10 @@ Automated daily work tracking powered by ActivityWatch + AI.
 ```
 Tasks/
 └── logs/
-    └── 2025/
+    └── 2026/
         └── feb/
-            ├── 2025-02-12.md       # Daily analyzed log
-            ├── 2025-02-12-activity.json  # Raw data
+            ├── 2026-02-12.md       # Daily analyzed log
+            ├── 2026-02-12-activity.json  # Raw data
             └── index.md            # Monthly summary
 ```
 
