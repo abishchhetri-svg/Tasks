@@ -62,8 +62,19 @@ open http://localhost:5600
 ### Features
 
 - **Smart file handling**: Checks if today's log exists, updates instead of overwriting
+- **Data merging**: When updating, recalculates all totals (hours, commits, percentages)
 - **Quick add**: Instantly add entries without full analysis
 - **Auto-commit**: All updates automatically pushed to GitHub (no confirmation needed)
+
+### Update Behavior
+
+When updating an existing log, values are **merged and recalculated**:
+
+```
+Before:  2 hours coding, 2 commits
+Update:  +4 hours coding, +5 commits
+After:   6 hours coding, 7 commits (all stats updated)
+```
 
 ## Data
 
