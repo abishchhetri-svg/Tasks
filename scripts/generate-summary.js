@@ -8,6 +8,27 @@
 const fs = require('fs').promises;
 const path = require('path');
 const { execSync } = require('child_process');
+
+// Load .env file if it exists (for local development)
+function loadEnv() {
+  try {
+    const envPath = path.join(__dirname, '..', '.env');
+    const envContent = require('fs').readFileSync(envPath, 'utf-8');
+    envContent.split('\n').forEach(line => {
+      const trimmed = line.trim();
+      if (trimmed && !trimmed.startsWith('#')) {
+        const [key, ...valueParts] = trimmed.split('=');
+        if (key && valueParts.length && !process.env[key]) {
+          process.env[key] = valueParts.join('=');
+        }
+      }
+    });
+  } catch (err) {
+    // .env file not found, use environment variables
+  }
+}
+loadEnv();
+
 const { ClaudeClient } = require('../lib/claude-client');
 
 // Configuration
