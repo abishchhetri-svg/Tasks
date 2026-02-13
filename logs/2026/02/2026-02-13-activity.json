@@ -1,0 +1,5461 @@
+{
+  "date": "2026-02-13",
+  "lastUpdated": "2026-02-13T14:25:36.131Z",
+  "collectionCount": 1,
+  "activityWatch": {
+    "buckets": {
+      "aw-watcher-window_Abishs-MacBook-Air.local": {
+        "metadata": {
+          "id": "aw-watcher-window_Abishs-MacBook-Air.local",
+          "created": "2026-02-12T13:29:13.021489+00:00",
+          "name": null,
+          "type": "currentwindow",
+          "client": "aw-watcher-window",
+          "hostname": "Abishs-MacBook-Air.local",
+          "data": {},
+          "last_updated": "2026-02-13T14:25:35.951000+00:00"
+        },
+        "events": [
+          {
+            "id": 2997,
+            "timestamp": "2026-02-13T14:25:35.951000+00:00",
+            "duration": 0,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2996,
+            "timestamp": "2026-02-13T14:23:36.071000+00:00",
+            "duration": 119.879,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2995,
+            "timestamp": "2026-02-13T14:23:32.949000+00:00",
+            "duration": 3.121,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2994,
+            "timestamp": "2026-02-13T14:22:46.071000+00:00",
+            "duration": 46.877,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2993,
+            "timestamp": "2026-02-13T14:22:37.808000+00:00",
+            "duration": 8.262,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2992,
+            "timestamp": "2026-02-13T14:22:16.072000+00:00",
+            "duration": 21.735,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2991,
+            "timestamp": "2026-02-13T14:21:56.066000+00:00",
+            "duration": 20.005,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2990,
+            "timestamp": "2026-02-13T14:21:54.999000+00:00",
+            "duration": 1.066,
+            "data": {
+              "title": "abishchhetri — zai — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2989,
+            "timestamp": "2026-02-13T14:21:46.067000+00:00",
+            "duration": 8.931,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2988,
+            "timestamp": "2026-02-13T14:21:36.065000+00:00",
+            "duration": 10.001,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2986,
+            "timestamp": "2026-02-13T14:20:46.071000+00:00",
+            "duration": 49.993,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Rename store — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2985,
+            "timestamp": "2026-02-13T14:20:39.078000+00:00",
+            "duration": 6.992,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2984,
+            "timestamp": "2026-02-13T14:20:38.471000+00:00",
+            "duration": 0.606,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2982,
+            "timestamp": "2026-02-13T14:17:16.069000+00:00",
+            "duration": 202.401,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2981,
+            "timestamp": "2026-02-13T14:17:10.432000+00:00",
+            "duration": 5.636,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2980,
+            "timestamp": "2026-02-13T14:16:36.067000+00:00",
+            "duration": 34.364,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2979,
+            "timestamp": "2026-02-13T14:16:26.834000+00:00",
+            "duration": 9.232,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Rename store — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2978,
+            "timestamp": "2026-02-13T14:15:26.068000+00:00",
+            "duration": 60.765,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2977,
+            "timestamp": "2026-02-13T14:14:56.072000+00:00",
+            "duration": 29.995,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Rename store — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2976,
+            "timestamp": "2026-02-13T14:14:49.870000+00:00",
+            "duration": 6.201,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Rename store — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2975,
+            "timestamp": "2026-02-13T14:14:10.552000+00:00",
+            "duration": 39.317,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Rename store — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2974,
+            "timestamp": "2026-02-13T14:14:09.769000+00:00",
+            "duration": 0.782,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "Emulated Store Explanation - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2973,
+            "timestamp": "2026-02-13T14:13:54.796000+00:00",
+            "duration": 14.972,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Rename store — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2972,
+            "timestamp": "2026-02-13T14:13:47.403000+00:00",
+            "duration": 7.392,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "Emulated Store Explanation - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2971,
+            "timestamp": "2026-02-13T14:13:33.738000+00:00",
+            "duration": 13.664,
+            "data": {
+              "title": "ChatGPT - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2970,
+            "timestamp": "2026-02-13T14:13:29.103000+00:00",
+            "duration": 4.634,
+            "data": {
+              "title": "",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2969,
+            "timestamp": "2026-02-13T14:13:27.171000+00:00",
+            "duration": 1.931,
+            "data": {
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/01-foundation-setup.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2968,
+            "timestamp": "2026-02-13T14:13:14.485000+00:00",
+            "duration": 12.685,
+            "data": {
+              "title": "abishchhetri — ✳ Rename store — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2967,
+            "timestamp": "2026-02-13T14:12:26.065000+00:00",
+            "duration": 48.419,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2966,
+            "timestamp": "2026-02-13T14:12:16.068000+00:00",
+            "duration": 9.996,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2965,
+            "timestamp": "2026-02-13T14:12:06.065000+00:00",
+            "duration": 10.002,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2964,
+            "timestamp": "2026-02-13T14:11:56.953000+00:00",
+            "duration": 9.111,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2963,
+            "timestamp": "2026-02-13T14:11:46.064000+00:00",
+            "duration": 10.888,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2962,
+            "timestamp": "2026-02-13T14:11:43.714000+00:00",
+            "duration": 2.349,
+            "data": {
+              "title": "abishchhetri — zai — which ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2961,
+            "timestamp": "2026-02-13T14:10:46.068000+00:00",
+            "duration": 57.645,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2960,
+            "timestamp": "2026-02-13T14:10:35.639000+00:00",
+            "duration": 10.428,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — node ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2959,
+            "timestamp": "2026-02-13T14:10:25.094000+00:00",
+            "duration": 10.544,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2958,
+            "timestamp": "2026-02-13T14:10:24.221000+00:00",
+            "duration": 0.872,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2957,
+            "timestamp": "2026-02-13T14:09:26.064000+00:00",
+            "duration": 58.156,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2956,
+            "timestamp": "2026-02-13T14:09:14.557000+00:00",
+            "duration": 11.506,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2955,
+            "timestamp": "2026-02-13T14:09:12.664000+00:00",
+            "duration": 1.892,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/01-foundation-setup.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2954,
+            "timestamp": "2026-02-13T14:09:10.535000+00:00",
+            "duration": 2.128,
+            "data": {
+              "title": "00-overview.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2953,
+            "timestamp": "2026-02-13T14:09:08.266000+00:00",
+            "duration": 2.268,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2952,
+            "timestamp": "2026-02-13T14:09:07.404000+00:00",
+            "duration": 0.861,
+            "data": {
+              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2951,
+            "timestamp": "2026-02-13T14:08:06.064000+00:00",
+            "duration": 61.339,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2950,
+            "timestamp": "2026-02-13T14:08:05.488000+00:00",
+            "duration": 0.575,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2949,
+            "timestamp": "2026-02-13T14:07:36.066000+00:00",
+            "duration": 29.421,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2948,
+            "timestamp": "2026-02-13T14:06:36.061000+00:00",
+            "duration": 60.004,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2947,
+            "timestamp": "2026-02-13T14:06:26.940000+00:00",
+            "duration": 9.12,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2946,
+            "timestamp": "2026-02-13T14:05:36.066000+00:00",
+            "duration": 50.873,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2945,
+            "timestamp": "2026-02-13T14:05:27.170000+00:00",
+            "duration": 8.895,
+            "data": {
+              "title": "abishchhetri — zai — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2944,
+            "timestamp": "2026-02-13T14:04:26.065000+00:00",
+            "duration": 61.104,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2943,
+            "timestamp": "2026-02-13T14:04:22.567000+00:00",
+            "duration": 3.497,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2942,
+            "timestamp": "2026-02-13T14:04:21.547000+00:00",
+            "duration": 1.019,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — rg ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2941,
+            "timestamp": "2026-02-13T14:04:16.066000+00:00",
+            "duration": 5.48,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2940,
+            "timestamp": "2026-02-13T14:04:10.230000+00:00",
+            "duration": 5.835,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2939,
+            "timestamp": "2026-02-13T14:04:09.603000+00:00",
+            "duration": 0.626,
+            "data": {
+              "app": "Code",
+              "title": "00-overview.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2938,
+            "timestamp": "2026-02-13T14:03:46.061000+00:00",
+            "duration": 23.541,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2937,
+            "timestamp": "2026-02-13T14:03:42.098000+00:00",
+            "duration": 3.962,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2936,
+            "timestamp": "2026-02-13T14:03:36.065000+00:00",
+            "duration": 6.032,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2935,
+            "timestamp": "2026-02-13T14:03:33.613000+00:00",
+            "duration": 2.451,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2934,
+            "timestamp": "2026-02-13T14:03:00.011000+00:00",
+            "duration": 33.601,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2933,
+            "timestamp": "2026-02-13T14:02:59.394000+00:00",
+            "duration": 0.616,
+            "data": {
+              "title": "abishchhetri — zai — node ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2932,
+            "timestamp": "2026-02-13T14:02:06.065000+00:00",
+            "duration": 53.328,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2929,
+            "timestamp": "2026-02-13T13:53:16.064000+00:00",
+            "duration": 530,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2928,
+            "timestamp": "2026-02-13T13:53:08.262000+00:00",
+            "duration": 7.801,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2927,
+            "timestamp": "2026-02-13T13:51:55.317000+00:00",
+            "duration": 72.944,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2926,
+            "timestamp": "2026-02-13T13:51:53.753000+00:00",
+            "duration": 1.563,
+            "data": {
+              "app": "Code",
+              "title": "00-overview.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2925,
+            "timestamp": "2026-02-13T13:51:46.062000+00:00",
+            "duration": 7.69,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2924,
+            "timestamp": "2026-02-13T13:51:44.795000+00:00",
+            "duration": 1.266,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2923,
+            "timestamp": "2026-02-13T13:51:24.840000+00:00",
+            "duration": 19.954,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2922,
+            "timestamp": "2026-02-13T13:51:24.275000+00:00",
+            "duration": 0.564,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — node ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2921,
+            "timestamp": "2026-02-13T13:49:32.666000+00:00",
+            "duration": 111.608,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2920,
+            "timestamp": "2026-02-13T13:49:28.198000+00:00",
+            "duration": 4.467,
+            "data": {
+              "app": "Code",
+              "title": "00-overview.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2919,
+            "timestamp": "2026-02-13T13:48:30.314000+00:00",
+            "duration": 57.883,
+            "data": {
+              "url": "",
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/01-foundation-setup.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2918,
+            "timestamp": "2026-02-13T13:48:24.179000+00:00",
+            "duration": 6.134,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2917,
+            "timestamp": "2026-02-13T13:48:18.307000+00:00",
+            "duration": 5.871,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/01-foundation-setup.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2916,
+            "timestamp": "2026-02-13T13:48:16.059000+00:00",
+            "duration": 2.247,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2915,
+            "timestamp": "2026-02-13T13:48:13.583000+00:00",
+            "duration": 2.475,
+            "data": {
+              "app": "Terminal",
+              "title": "caplyst-frontend — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2914,
+            "timestamp": "2026-02-13T13:47:23.785000+00:00",
+            "duration": 49.797,
+            "data": {
+              "app": "Google Chrome",
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/01-foundation-setup.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2913,
+            "timestamp": "2026-02-13T13:46:44.175000+00:00",
+            "duration": 39.609,
+            "data": {
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/00-overview.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2912,
+            "timestamp": "2026-02-13T13:46:39.078000+00:00",
+            "duration": 5.096,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2911,
+            "timestamp": "2026-02-13T13:46:35.448000+00:00",
+            "duration": 3.629,
+            "data": {
+              "url": "",
+              "title": "GitHub - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2910,
+            "timestamp": "2026-02-13T13:46:33.439000+00:00",
+            "duration": 2.008,
+            "data": {
+              "title": "github - Google Search - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2909,
+            "timestamp": "2026-02-13T13:46:31.655000+00:00",
+            "duration": 1.783,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": ""
+            }
+          },
+          {
+            "id": 2908,
+            "timestamp": "2026-02-13T13:46:28.965000+00:00",
+            "duration": 2.689,
+            "data": {
+              "app": "Google Chrome",
+              "title": "abishchhetri-svg/Tasks - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2907,
+            "timestamp": "2026-02-13T13:46:27.412000+00:00",
+            "duration": 1.552,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2906,
+            "timestamp": "2026-02-13T13:45:24.211000+00:00",
+            "duration": 63.2,
+            "data": {
+              "title": "00-overview.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2905,
+            "timestamp": "2026-02-13T13:45:20.248000+00:00",
+            "duration": 3.962,
+            "data": {
+              "title": "",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2904,
+            "timestamp": "2026-02-13T13:45:13.791000+00:00",
+            "duration": 6.456,
+            "data": {
+              "title": "00-overview.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2903,
+            "timestamp": "2026-02-13T13:45:13.066000+00:00",
+            "duration": 0.724,
+            "data": {
+              "app": "Code",
+              "title": "01-foundation-setup.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2902,
+            "timestamp": "2026-02-13T13:45:12.058000+00:00",
+            "duration": 1.007,
+            "data": {
+              "title": "02-storage-layer.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2901,
+            "timestamp": "2026-02-13T13:45:11.146000+00:00",
+            "duration": 0.911,
+            "data": {
+              "app": "Code",
+              "title": "04-type-system.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2900,
+            "timestamp": "2026-02-13T13:45:09.563000+00:00",
+            "duration": 1.582,
+            "data": {
+              "app": "Code",
+              "title": "03-service-layer.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2899,
+            "timestamp": "2026-02-13T13:45:08.882000+00:00",
+            "duration": 0.68,
+            "data": {
+              "app": "Code",
+              "title": "02-storage-layer.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2898,
+            "timestamp": "2026-02-13T13:45:04.182000+00:00",
+            "duration": 4.699,
+            "data": {
+              "title": "01-foundation-setup.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2897,
+            "timestamp": "2026-02-13T13:45:01.629000+00:00",
+            "duration": 2.552,
+            "data": {
+              "title": "00-overview.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2896,
+            "timestamp": "2026-02-13T13:44:54.033000+00:00",
+            "duration": 7.595,
+            "data": {
+              "app": "Code",
+              "title": ""
+            }
+          },
+          {
+            "id": 2895,
+            "timestamp": "2026-02-13T13:44:42.062000+00:00",
+            "duration": 11.97,
+            "data": {
+              "app": "Code",
+              "title": "00-overview.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2894,
+            "timestamp": "2026-02-13T13:44:33.837000+00:00",
+            "duration": 8.224,
+            "data": {
+              "title": "01-foundation-setup.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2893,
+            "timestamp": "2026-02-13T13:44:32.837000+00:00",
+            "duration": 0.999,
+            "data": {
+              "title": "caplyst-frontend — code . — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2892,
+            "timestamp": "2026-02-13T13:44:29.191000+00:00",
+            "duration": 3.645,
+            "data": {
+              "app": "Terminal",
+              "title": "caplyst-frontend — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2891,
+            "timestamp": "2026-02-13T13:44:29.165000+00:00",
+            "duration": 0,
+            "data": {
+              "app": "Terminal",
+              "title": "caplyst-frontend — eza — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2890,
+            "timestamp": "2026-02-13T13:44:27.762000+00:00",
+            "duration": 1.402,
+            "data": {
+              "app": "Terminal",
+              "title": "caplyst-frontend — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2889,
+            "timestamp": "2026-02-13T13:44:27.742000+00:00",
+            "duration": 0,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — cd caplyst-frontend — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2888,
+            "timestamp": "2026-02-13T13:44:16.057000+00:00",
+            "duration": 11.709,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2887,
+            "timestamp": "2026-02-13T13:44:06.055000+00:00",
+            "duration": 10.001,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2886,
+            "timestamp": "2026-02-13T13:43:59.465000+00:00",
+            "duration": 6.589,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2885,
+            "timestamp": "2026-02-13T13:43:54.040000+00:00",
+            "duration": 5.424,
+            "data": {
+              "app": "Code",
+              "title": "index.html — venture-forge-website"
+            }
+          },
+          {
+            "id": 2884,
+            "timestamp": "2026-02-13T13:43:53.241000+00:00",
+            "duration": 0.798,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2883,
+            "timestamp": "2026-02-13T13:43:51.115000+00:00",
+            "duration": 2.125,
+            "data": {
+              "app": "Code",
+              "title": "index.html — venture-forge-website"
+            }
+          },
+          {
+            "id": 2882,
+            "timestamp": "2026-02-13T13:41:51.679000+00:00",
+            "duration": 119.435,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2881,
+            "timestamp": "2026-02-13T13:41:49.498000+00:00",
+            "duration": 2.18,
+            "data": {
+              "app": "Google Chrome",
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2880,
+            "timestamp": "2026-02-13T13:41:48.503000+00:00",
+            "duration": 0.994,
+            "data": {
+              "title": "figma.com/make/1RsRsNAA3QqGv4NLdQ4awB/Company-Registration-Sign-up-Flow?p=f&t=18nbedSRipOwh6vC-0 - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2879,
+            "timestamp": "2026-02-13T13:41:46.610000+00:00",
+            "duration": 1.892,
+            "data": {
+              "app": "Google Chrome",
+              "title": "",
+              "url": ""
+            }
+          },
+          {
+            "id": 2878,
+            "timestamp": "2026-02-13T13:41:45.327000+00:00",
+            "duration": 1.282,
+            "data": {
+              "app": "Google Chrome",
+              "title": "abishchhetri-svg/Tasks - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2877,
+            "timestamp": "2026-02-13T13:39:56.058000+00:00",
+            "duration": 109.268,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2876,
+            "timestamp": "2026-02-13T13:39:50.953000+00:00",
+            "duration": 5.104,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2875,
+            "timestamp": "2026-02-13T13:38:36.054000+00:00",
+            "duration": 74.898,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2874,
+            "timestamp": "2026-02-13T13:38:29.326000+00:00",
+            "duration": 6.727,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2873,
+            "timestamp": "2026-02-13T13:38:16.059000+00:00",
+            "duration": 13.266,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2872,
+            "timestamp": "2026-02-13T13:38:07.551000+00:00",
+            "duration": 8.507,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2871,
+            "timestamp": "2026-02-13T13:38:06.051000+00:00",
+            "duration": 1.499,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2870,
+            "timestamp": "2026-02-13T13:38:01.163000+00:00",
+            "duration": 4.887,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ eza — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2869,
+            "timestamp": "2026-02-13T13:37:46.053000+00:00",
+            "duration": 15.109,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2866,
+            "timestamp": "2026-02-13T13:26:46.052000+00:00",
+            "duration": 660,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2865,
+            "timestamp": "2026-02-13T13:26:42.380000+00:00",
+            "duration": 3.671,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2864,
+            "timestamp": "2026-02-13T13:26:35.819000+00:00",
+            "duration": 6.56,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2863,
+            "timestamp": "2026-02-13T13:26:27.856000+00:00",
+            "duration": 7.962,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ bash — 236×61"
+            }
+          },
+          {
+            "id": 2862,
+            "timestamp": "2026-02-13T13:25:10.541000+00:00",
+            "duration": 77.314,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2861,
+            "timestamp": "2026-02-13T13:25:08.497000+00:00",
+            "duration": 2.043,
+            "data": {
+              "title": "index.html — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2860,
+            "timestamp": "2026-02-13T13:25:02.637000+00:00",
+            "duration": 5.859,
+            "data": {
+              "title": "abishchhetri-svg/Tasks - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2859,
+            "timestamp": "2026-02-13T13:25:00.768000+00:00",
+            "duration": 1.868,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2858,
+            "timestamp": "2026-02-13T13:25:00.149000+00:00",
+            "duration": 0.618,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2857,
+            "timestamp": "2026-02-13T13:24:59.378000+00:00",
+            "duration": 0.77,
+            "data": {
+              "title": "abishchhetri — zai — grep ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2856,
+            "timestamp": "2026-02-13T13:24:58.541000+00:00",
+            "duration": 0.836,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2855,
+            "timestamp": "2026-02-13T13:24:46.051000+00:00",
+            "duration": 12.489,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2854,
+            "timestamp": "2026-02-13T13:24:36.056000+00:00",
+            "duration": 9.994,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2853,
+            "timestamp": "2026-02-13T13:24:31.012000+00:00",
+            "duration": 5.043,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2852,
+            "timestamp": "2026-02-13T13:24:21.094000+00:00",
+            "duration": 9.917,
+            "data": {
+              "title": "abishchhetri-svg/Tasks - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2851,
+            "timestamp": "2026-02-13T13:24:06.050000+00:00",
+            "duration": 15.043,
+            "data": {
+              "app": "Google Chrome",
+              "title": "GitHub - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2850,
+            "timestamp": "2026-02-13T13:23:56.054000+00:00",
+            "duration": 9.995,
+            "data": {
+              "app": "Google Chrome",
+              "title": "github - Google Search - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2849,
+            "timestamp": "2026-02-13T13:23:51.818000+00:00",
+            "duration": 4.235,
+            "data": {
+              "title": "google.com/search?gs_ssp=eJzj4tLP1TcoqiwoyE1XYDRgdGDwYkvPLMkoTQIAWC4HFA&q=github&oq=git&gs_lcrp=EgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyEwgBEC4YgwEYxwEYsQMY0QMYgAQyDwgCEEUYORiDARixAxiABDIGCAMQRRhAMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyNjY2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2848,
+            "timestamp": "2026-02-13T13:23:46.053000+00:00",
+            "duration": 5.764,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2847,
+            "timestamp": "2026-02-13T13:23:44.356000+00:00",
+            "duration": 1.696,
+            "data": {
+              "title": "Untitled Diagram - draw.io - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2846,
+            "timestamp": "2026-02-13T13:23:40.915000+00:00",
+            "duration": 3.44,
+            "data": {
+              "title": "",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2845,
+            "timestamp": "2026-02-13T13:23:40.914000+00:00",
+            "duration": 0,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2844,
+            "timestamp": "2026-02-13T13:23:40.664000+00:00",
+            "duration": 0,
+            "data": {
+              "title": "Untitled Diagram - draw.io - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2843,
+            "timestamp": "2026-02-13T13:23:37.967000+00:00",
+            "duration": 2.696,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2842,
+            "timestamp": "2026-02-13T13:23:31.397000+00:00",
+            "duration": 6.569,
+            "data": {
+              "title": "Internships | Jobs | Trainings & Placement Courses | Post a Job - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2841,
+            "timestamp": "2026-02-13T13:23:21.902000+00:00",
+            "duration": 9.494,
+            "data": {
+              "title": "Caplyst - Company Registration Platform - Google Chrome – Abish",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2840,
+            "timestamp": "2026-02-13T13:23:00.629000+00:00",
+            "duration": 21.272,
+            "data": {
+              "title": "Recents",
+              "app": "Finder"
+            }
+          },
+          {
+            "id": 2839,
+            "timestamp": "2026-02-13T13:22:56.356000+00:00",
+            "duration": 4.272,
+            "data": {
+              "title": "06-frontend.md — plans",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2838,
+            "timestamp": "2026-02-13T13:22:39.728000+00:00",
+            "duration": 16.627,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/02-storage-layer.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2837,
+            "timestamp": "2026-02-13T13:22:38.338000+00:00",
+            "duration": 1.389,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2836,
+            "timestamp": "2026-02-13T13:22:37.791000+00:00",
+            "duration": 0.546,
+            "data": {
+              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2835,
+            "timestamp": "2026-02-13T13:22:36.623000+00:00",
+            "duration": 1.167,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2834,
+            "timestamp": "2026-02-13T13:22:36.048000+00:00",
+            "duration": 0.574,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2833,
+            "timestamp": "2026-02-13T13:22:30.670000+00:00",
+            "duration": 5.377,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2832,
+            "timestamp": "2026-02-13T13:22:26.049000+00:00",
+            "duration": 4.62,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2831,
+            "timestamp": "2026-02-13T13:22:17.260000+00:00",
+            "duration": 8.788,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2830,
+            "timestamp": "2026-02-13T13:22:16.629000+00:00",
+            "duration": 0.63,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2829,
+            "timestamp": "2026-02-13T13:22:09.758000+00:00",
+            "duration": 6.87,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2828,
+            "timestamp": "2026-02-13T13:22:06.051000+00:00",
+            "duration": 3.706,
+            "data": {
+              "title": "index.html — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2827,
+            "timestamp": "2026-02-13T13:22:04.647000+00:00",
+            "duration": 1.403,
+            "data": {
+              "title": ".gitignore — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2826,
+            "timestamp": "2026-02-13T13:22:03.698000+00:00",
+            "duration": 0.948,
+            "data": {
+              "title": "Footer.jsx — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2825,
+            "timestamp": "2026-02-13T13:21:56.785000+00:00",
+            "duration": 6.912,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2824,
+            "timestamp": "2026-02-13T13:21:56.050000+00:00",
+            "duration": 0.734,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2823,
+            "timestamp": "2026-02-13T13:21:49.382000+00:00",
+            "duration": 6.667,
+            "data": {
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2822,
+            "timestamp": "2026-02-13T13:21:41.723000+00:00",
+            "duration": 7.658,
+            "data": {
+              "title": "Waitlist.jsx — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2821,
+            "timestamp": "2026-02-13T13:21:36.047000+00:00",
+            "duration": 5.675,
+            "data": {
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2820,
+            "timestamp": "2026-02-13T13:21:26.047000+00:00",
+            "duration": 9.999,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2819,
+            "timestamp": "2026-02-13T13:21:18.293000+00:00",
+            "duration": 7.753,
+            "data": {
+              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2818,
+            "timestamp": "2026-02-13T13:21:15.969000+00:00",
+            "duration": 2.323,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2817,
+            "timestamp": "2026-02-13T13:20:55.252000+00:00",
+            "duration": 20.716,
+            "data": {
+              "url": "",
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/02-storage-layer.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2816,
+            "timestamp": "2026-02-13T13:20:43.087000+00:00",
+            "duration": 12.164,
+            "data": {
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/01-foundation-setup.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2815,
+            "timestamp": "2026-02-13T13:20:36.048000+00:00",
+            "duration": 7.038,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2814,
+            "timestamp": "2026-02-13T13:20:27.025000+00:00",
+            "duration": 9.022,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — eza — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2813,
+            "timestamp": "2026-02-13T13:20:26.044000+00:00",
+            "duration": 0.997,
+            "data": {
+              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2812,
+            "timestamp": "2026-02-13T13:20:20.327000+00:00",
+            "duration": 5.716,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2811,
+            "timestamp": "2026-02-13T13:20:17.485000+00:00",
+            "duration": 2.841,
+            "data": {
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/01-foundation-setup.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2810,
+            "timestamp": "2026-02-13T13:20:06.043000+00:00",
+            "duration": 11.441,
+            "data": {
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2809,
+            "timestamp": "2026-02-13T13:20:00.052000+00:00",
+            "duration": 5.99,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2808,
+            "timestamp": "2026-02-13T13:19:59.301000+00:00",
+            "duration": 0.75,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — defaults ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2807,
+            "timestamp": "2026-02-13T13:17:46.078000+00:00",
+            "duration": 133.222,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2806,
+            "timestamp": "2026-02-13T13:17:45.573000+00:00",
+            "duration": 0.504,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2805,
+            "timestamp": "2026-02-13T13:17:36.041000+00:00",
+            "duration": 9.531,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2804,
+            "timestamp": "2026-02-13T13:17:33.865000+00:00",
+            "duration": 2.175,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2803,
+            "timestamp": "2026-02-13T13:15:26.042000+00:00",
+            "duration": 127.822,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2802,
+            "timestamp": "2026-02-13T13:15:16.041000+00:00",
+            "duration": 10,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2801,
+            "timestamp": "2026-02-13T13:15:10.071000+00:00",
+            "duration": 5.969,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2800,
+            "timestamp": "2026-02-13T13:15:06.040000+00:00",
+            "duration": 4.03,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2799,
+            "timestamp": "2026-02-13T13:14:56.041000+00:00",
+            "duration": 9.998,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2798,
+            "timestamp": "2026-02-13T13:14:46.039000+00:00",
+            "duration": 10.001,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2797,
+            "timestamp": "2026-02-13T13:14:44.857000+00:00",
+            "duration": 1.181,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2796,
+            "timestamp": "2026-02-13T13:14:26.038000+00:00",
+            "duration": 18.818,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2795,
+            "timestamp": "2026-02-13T13:14:22.903000+00:00",
+            "duration": 3.134,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2794,
+            "timestamp": "2026-02-13T13:14:13.038000+00:00",
+            "duration": 9.864,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2793,
+            "timestamp": "2026-02-13T13:14:12.364000+00:00",
+            "duration": 0.673,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — node ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2792,
+            "timestamp": "2026-02-13T13:14:07.962000+00:00",
+            "duration": 4.401,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ System Verification — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2791,
+            "timestamp": "2026-02-13T13:13:41.349000+00:00",
+            "duration": 26.612,
+            "data": {
+              "title": "abishchhetri — ✳ System Verification — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2790,
+            "timestamp": "2026-02-13T13:12:16.043000+00:00",
+            "duration": 85.305,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2789,
+            "timestamp": "2026-02-13T13:12:13.471000+00:00",
+            "duration": 2.571,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2788,
+            "timestamp": "2026-02-13T13:10:46.040000+00:00",
+            "duration": 87.43,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2787,
+            "timestamp": "2026-02-13T13:10:36.044000+00:00",
+            "duration": 9.995,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2784,
+            "timestamp": "2026-02-13T13:05:42.204000+00:00",
+            "duration": 293.839,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2783,
+            "timestamp": "2026-02-13T13:05:24.993000+00:00",
+            "duration": 17.21,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal ▸ node — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2782,
+            "timestamp": "2026-02-13T13:05:23.706000+00:00",
+            "duration": 1.286,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal ▸ mcp-server@latest — 236×59"
+            }
+          },
+          {
+            "id": 2781,
+            "timestamp": "2026-02-13T13:05:20.179000+00:00",
+            "duration": 3.526,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal ▸ sw_vers — 236×59"
+            }
+          },
+          {
+            "id": 2780,
+            "timestamp": "2026-02-13T13:03:41.322000+00:00",
+            "duration": 98.856,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2779,
+            "timestamp": "2026-02-13T13:03:35.448000+00:00",
+            "duration": 5.873,
+            "data": {
+              "url": "",
+              "title": "Introduction - shadcn/ui - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2778,
+            "timestamp": "2026-02-13T13:03:34.792000+00:00",
+            "duration": 0.655,
+            "data": {
+              "url": "",
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2777,
+            "timestamp": "2026-02-13T13:03:33.850000+00:00",
+            "duration": 0.941,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2776,
+            "timestamp": "2026-02-13T13:03:32.734000+00:00",
+            "duration": 1.115,
+            "data": {
+              "title": "maas-log-prod.cn-wlcb.ufileos.com/anthropic/85cf93f4-b800-4272-a100-3670f12d053d/c1af99742d411b58cd244760e277947c.png?UCloudPublicKey=TOKEN_e15ba47a-d098-4fbd-9afc-a0dcf0e4e621&Expires=1770971886&Signature=ZH3NzjwF/6q/NDyu31vo4FZGwak= - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2775,
+            "timestamp": "2026-02-13T13:03:31.763000+00:00",
+            "duration": 0.97,
+            "data": {
+              "title": "localhost – Network error - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2774,
+            "timestamp": "2026-02-13T13:03:24.649000+00:00",
+            "duration": 7.113,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2773,
+            "timestamp": "2026-02-13T13:03:13.073000+00:00",
+            "duration": 11.575,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2772,
+            "timestamp": "2026-02-13T13:03:11.176000+00:00",
+            "duration": 1.896,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2771,
+            "timestamp": "2026-02-13T12:59:56.038000+00:00",
+            "duration": 195.137,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2770,
+            "timestamp": "2026-02-13T12:59:46.039000+00:00",
+            "duration": 9.998,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2769,
+            "timestamp": "2026-02-13T12:59:16.039000+00:00",
+            "duration": 29.999,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2768,
+            "timestamp": "2026-02-13T12:59:06.033000+00:00",
+            "duration": 10.005,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2767,
+            "timestamp": "2026-02-13T12:56:56.034000+00:00",
+            "duration": 129.998,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2766,
+            "timestamp": "2026-02-13T12:56:44.774000+00:00",
+            "duration": 11.259,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2765,
+            "timestamp": "2026-02-13T12:56:44.155000+00:00",
+            "duration": 0.618,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Analyze Terminal Code — node ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2764,
+            "timestamp": "2026-02-13T12:55:46.035000+00:00",
+            "duration": 58.119,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2763,
+            "timestamp": "2026-02-13T12:55:37.059000+00:00",
+            "duration": 8.975,
+            "data": {
+              "title": "abishchhetri — ✳ Analyze Terminal Code — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2762,
+            "timestamp": "2026-02-13T12:55:26.034000+00:00",
+            "duration": 11.024,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2761,
+            "timestamp": "2026-02-13T12:55:21.274000+00:00",
+            "duration": 4.759,
+            "data": {
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal ▸ bash — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2760,
+            "timestamp": "2026-02-13T12:55:18.614000+00:00",
+            "duration": 2.659,
+            "data": {
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2759,
+            "timestamp": "2026-02-13T12:55:16.037000+00:00",
+            "duration": 2.576,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2758,
+            "timestamp": "2026-02-13T12:54:56.036000+00:00",
+            "duration": 20,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2757,
+            "timestamp": "2026-02-13T12:54:53.397000+00:00",
+            "duration": 2.638,
+            "data": {
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2756,
+            "timestamp": "2026-02-13T12:54:52.649000+00:00",
+            "duration": 0.747,
+            "data": {
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2755,
+            "timestamp": "2026-02-13T12:52:42.266000+00:00",
+            "duration": 130.382,
+            "data": {
+              "app": "Google Chrome",
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2754,
+            "timestamp": "2026-02-13T12:52:27.195000+00:00",
+            "duration": 15.07,
+            "data": {
+              "url": "",
+              "title": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2753,
+            "timestamp": "2026-02-13T12:52:24.779000+00:00",
+            "duration": 2.415,
+            "data": {
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2752,
+            "timestamp": "2026-02-13T12:51:36.038000+00:00",
+            "duration": 48.74,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2751,
+            "timestamp": "2026-02-13T12:51:25.278000+00:00",
+            "duration": 10.759,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2750,
+            "timestamp": "2026-02-13T12:51:24.666000+00:00",
+            "duration": 0.611,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2749,
+            "timestamp": "2026-02-13T12:50:26.036000+00:00",
+            "duration": 58.629,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2748,
+            "timestamp": "2026-02-13T12:50:21.198000+00:00",
+            "duration": 4.837,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2747,
+            "timestamp": "2026-02-13T12:50:02.642000+00:00",
+            "duration": 18.555,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2746,
+            "timestamp": "2026-02-13T12:50:01.833000+00:00",
+            "duration": 0.808,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2745,
+            "timestamp": "2026-02-13T12:49:41.816000+00:00",
+            "duration": 20.016,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2744,
+            "timestamp": "2026-02-13T12:49:31.811000+00:00",
+            "duration": 10.004,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2743,
+            "timestamp": "2026-02-13T12:49:29.737000+00:00",
+            "duration": 2.073,
+            "data": {
+              "title": "UI Color Palette - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2742,
+            "timestamp": "2026-02-13T12:49:00.528000+00:00",
+            "duration": 29.208,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2741,
+            "timestamp": "2026-02-13T12:48:23.876000+00:00",
+            "duration": 36.651,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "UI Color Palette - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2740,
+            "timestamp": "2026-02-13T12:47:56.032000+00:00",
+            "duration": 27.843,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2739,
+            "timestamp": "2026-02-13T12:47:52.033000+00:00",
+            "duration": 3.998,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2738,
+            "timestamp": "2026-02-13T12:47:16.032000+00:00",
+            "duration": 36,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2737,
+            "timestamp": "2026-02-13T12:47:13.947000+00:00",
+            "duration": 2.084,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2736,
+            "timestamp": "2026-02-13T12:46:58.407000+00:00",
+            "duration": 15.539,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2735,
+            "timestamp": "2026-02-13T12:46:55.930000+00:00",
+            "duration": 2.476,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2734,
+            "timestamp": "2026-02-13T12:46:46.033000+00:00",
+            "duration": 9.896,
+            "data": {
+              "url": "",
+              "title": "UI Color Palette - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2733,
+            "timestamp": "2026-02-13T12:46:45.527000+00:00",
+            "duration": 0.505,
+            "data": {
+              "url": "",
+              "title": "UI-Caplyst - Google Docs - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2732,
+            "timestamp": "2026-02-13T12:46:45.027000+00:00",
+            "duration": 0.499,
+            "data": {
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2731,
+            "timestamp": "2026-02-13T12:46:42.712000+00:00",
+            "duration": 2.314,
+            "data": {
+              "url": "",
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2730,
+            "timestamp": "2026-02-13T12:45:28.745000+00:00",
+            "duration": 73.966,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2729,
+            "timestamp": "2026-02-13T12:45:27.579000+00:00",
+            "duration": 1.165,
+            "data": {
+              "title": "Waitlist.jsx — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2728,
+            "timestamp": "2026-02-13T12:44:36.027000+00:00",
+            "duration": 51.551,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2727,
+            "timestamp": "2026-02-13T12:44:33.712000+00:00",
+            "duration": 2.314,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal ▸ eza — 236×59"
+            }
+          },
+          {
+            "id": 2726,
+            "timestamp": "2026-02-13T12:44:06.033000+00:00",
+            "duration": 27.678,
+            "data": {
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2725,
+            "timestamp": "2026-02-13T12:43:56.034000+00:00",
+            "duration": 9.998,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2724,
+            "timestamp": "2026-02-13T12:43:46.028000+00:00",
+            "duration": 10.005,
+            "data": {
+              "app": "Terminal",
+              "title": "venture-forge-website — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2723,
+            "timestamp": "2026-02-13T12:43:36.040000+00:00",
+            "duration": 9.987,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2722,
+            "timestamp": "2026-02-13T12:43:17.941000+00:00",
+            "duration": 18.098,
+            "data": {
+              "title": "Waitlist.jsx — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2721,
+            "timestamp": "2026-02-13T12:42:29.109000+00:00",
+            "duration": 48.831,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2720,
+            "timestamp": "2026-02-13T12:42:28.057000+00:00",
+            "duration": 1.051,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2719,
+            "timestamp": "2026-02-13T12:41:27.266000+00:00",
+            "duration": 60.79,
+            "data": {
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2718,
+            "timestamp": "2026-02-13T12:41:19.098000+00:00",
+            "duration": 8.167,
+            "data": {
+              "app": "Google Chrome",
+              "title": "localhost - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2717,
+            "timestamp": "2026-02-13T12:41:14.253000+00:00",
+            "duration": 4.844,
+            "data": {
+              "url": "",
+              "title": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2716,
+            "timestamp": "2026-02-13T12:41:06.031000+00:00",
+            "duration": 8.221,
+            "data": {
+              "app": "Google Chrome",
+              "title": "localhost - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2715,
+            "timestamp": "2026-02-13T12:41:02.188000+00:00",
+            "duration": 3.842,
+            "data": {
+              "title": "localhost – Network error - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2714,
+            "timestamp": "2026-02-13T12:40:58.690000+00:00",
+            "duration": 3.497,
+            "data": {
+              "url": "",
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2713,
+            "timestamp": "2026-02-13T12:40:37.566000+00:00",
+            "duration": 21.123,
+            "data": {
+              "title": "Waitlist.jsx — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2712,
+            "timestamp": "2026-02-13T12:40:32.502000+00:00",
+            "duration": 5.063,
+            "data": {
+              "url": "",
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2711,
+            "timestamp": "2026-02-13T12:40:22.410000+00:00",
+            "duration": 10.091,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2710,
+            "timestamp": "2026-02-13T12:40:20.373000+00:00",
+            "duration": 2.036,
+            "data": {
+              "app": "Code",
+              "title": "email.png — venture-forge-website"
+            }
+          },
+          {
+            "id": 2709,
+            "timestamp": "2026-02-13T12:40:00.564000+00:00",
+            "duration": 19.808,
+            "data": {
+              "app": "Code",
+              "title": "waitlist.png — venture-forge-website"
+            }
+          },
+          {
+            "id": 2708,
+            "timestamp": "2026-02-13T12:39:56.728000+00:00",
+            "duration": 3.835,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2707,
+            "timestamp": "2026-02-13T12:39:38.232000+00:00",
+            "duration": 18.495,
+            "data": {
+              "app": "Google Chrome",
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2706,
+            "timestamp": "2026-02-13T12:39:37.602000+00:00",
+            "duration": 0.629,
+            "data": {
+              "url": "",
+              "title": "Untitled - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2705,
+            "timestamp": "2026-02-13T12:39:28.223000+00:00",
+            "duration": 9.378,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2704,
+            "timestamp": "2026-02-13T12:36:04.487000+00:00",
+            "duration": 203.735,
+            "data": {
+              "app": "Code",
+              "title": "06-frontend.md — plans"
+            }
+          },
+          {
+            "id": 2703,
+            "timestamp": "2026-02-13T12:35:49.566000+00:00",
+            "duration": 14.92,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2702,
+            "timestamp": "2026-02-13T12:35:47.710000+00:00",
+            "duration": 1.855,
+            "data": {
+              "app": "Code",
+              "title": "06-frontend.md — plans"
+            }
+          },
+          {
+            "id": 2701,
+            "timestamp": "2026-02-13T12:35:47.709000+00:00",
+            "duration": 0,
+            "data": {
+              "title": "06-frontend.md — plans",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2700,
+            "timestamp": "2026-02-13T12:35:45.830000+00:00",
+            "duration": 1.879,
+            "data": {
+              "app": "Finder",
+              "title": "Recents"
+            }
+          },
+          {
+            "id": 2699,
+            "timestamp": "2026-02-13T12:35:36.033000+00:00",
+            "duration": 9.796,
+            "data": {
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2698,
+            "timestamp": "2026-02-13T12:35:30.771000+00:00",
+            "duration": 5.261,
+            "data": {
+              "title": "abishchhetri — ✳ fix email attachment issue — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2697,
+            "timestamp": "2026-02-13T12:35:23.991000+00:00",
+            "duration": 6.779,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2696,
+            "timestamp": "2026-02-13T12:35:23.322000+00:00",
+            "duration": 0.668,
+            "data": {
+              "title": "abishchhetri — ✳ fix email attachment issue — node ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2695,
+            "timestamp": "2026-02-13T12:35:17.223000+00:00",
+            "duration": 6.098,
+            "data": {
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2694,
+            "timestamp": "2026-02-13T12:35:15.700000+00:00",
+            "duration": 1.522,
+            "data": {
+              "app": "Finder",
+              "title": "Recents"
+            }
+          },
+          {
+            "id": 2690,
+            "timestamp": "2026-02-13T12:29:14.156000+00:00",
+            "duration": 361.543,
+            "data": {
+              "title": "Waitlist.jsx — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2689,
+            "timestamp": "2026-02-13T12:29:13.582000+00:00",
+            "duration": 0.573,
+            "data": {
+              "app": "Google Chrome",
+              "title": "localhost – Network error - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2688,
+            "timestamp": "2026-02-13T12:29:10.220000+00:00",
+            "duration": 3.361,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2687,
+            "timestamp": "2026-02-13T12:29:08.736000+00:00",
+            "duration": 1.483,
+            "data": {
+              "url": "",
+              "title": "localhost – Network error - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2686,
+            "timestamp": "2026-02-13T12:29:07.158000+00:00",
+            "duration": 1.577,
+            "data": {
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2685,
+            "timestamp": "2026-02-13T12:29:06.557000+00:00",
+            "duration": 0.6,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2684,
+            "timestamp": "2026-02-13T12:28:56.031000+00:00",
+            "duration": 10.525,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2683,
+            "timestamp": "2026-02-13T12:28:51.056000+00:00",
+            "duration": 4.974,
+            "data": {
+              "title": "abishchhetri — ✳ fix email attachment issue — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2682,
+            "timestamp": "2026-02-13T12:28:05.929000+00:00",
+            "duration": 45.126,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2681,
+            "timestamp": "2026-02-13T12:28:05.250000+00:00",
+            "duration": 0.678,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — node ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2680,
+            "timestamp": "2026-02-13T12:26:56.025000+00:00",
+            "duration": 69.224,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2679,
+            "timestamp": "2026-02-13T12:26:54.192000+00:00",
+            "duration": 1.832,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Update Request — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2678,
+            "timestamp": "2026-02-13T12:26:46.025000+00:00",
+            "duration": 8.166,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2677,
+            "timestamp": "2026-02-13T12:26:38.483000+00:00",
+            "duration": 7.541,
+            "data": {
+              "title": "abishchhetri — ✳ fix email attachment issue — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2676,
+            "timestamp": "2026-02-13T12:26:26.029000+00:00",
+            "duration": 12.453,
+            "data": {
+              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2675,
+            "timestamp": "2026-02-13T12:26:18.186000+00:00",
+            "duration": 7.842,
+            "data": {
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal ▸ eza — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2674,
+            "timestamp": "2026-02-13T12:26:16.027000+00:00",
+            "duration": 2.158,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2673,
+            "timestamp": "2026-02-13T12:26:09.676000+00:00",
+            "duration": 6.35,
+            "data": {
+              "title": "abishchhetri — ✳ fix email attachment issue — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2672,
+            "timestamp": "2026-02-13T12:26:06.661000+00:00",
+            "duration": 3.014,
+            "data": {
+              "title": "localhost – Network error - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2671,
+            "timestamp": "2026-02-13T12:25:56.074000+00:00",
+            "duration": 10.586,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2670,
+            "timestamp": "2026-02-13T12:23:53.620000+00:00",
+            "duration": 122.524,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2669,
+            "timestamp": "2026-02-13T12:23:49.717000+00:00",
+            "duration": 3.902,
+            "data": {
+              "app": "Code",
+              "title": "Line History (Waitlist.jsx#56) — venture-forge-website"
+            }
+          },
+          {
+            "id": 2668,
+            "timestamp": "2026-02-13T12:23:37.582000+00:00",
+            "duration": 12.134,
+            "data": {
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2667,
+            "timestamp": "2026-02-13T12:22:46.026000+00:00",
+            "duration": 51.555,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2666,
+            "timestamp": "2026-02-13T12:22:35.531000+00:00",
+            "duration": 10.494,
+            "data": {
+              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2665,
+            "timestamp": "2026-02-13T12:22:32.439000+00:00",
+            "duration": 3.091,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2664,
+            "timestamp": "2026-02-13T12:22:13.069000+00:00",
+            "duration": 19.369,
+            "data": {
+              "title": "Line History (Waitlist.jsx#56) — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2663,
+            "timestamp": "2026-02-13T12:22:09.990000+00:00",
+            "duration": 3.078,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2662,
+            "timestamp": "2026-02-13T12:22:06.948000+00:00",
+            "duration": 3.041,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2661,
+            "timestamp": "2026-02-13T12:22:06.033000+00:00",
+            "duration": 0.914,
+            "data": {
+              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2660,
+            "timestamp": "2026-02-13T12:21:56.029000+00:00",
+            "duration": 10.003,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2659,
+            "timestamp": "2026-02-13T12:21:48.225000+00:00",
+            "duration": 7.803,
+            "data": {
+              "title": "venture-forge-website — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2657,
+            "timestamp": "2026-02-13T12:21:40.789000+00:00",
+            "duration": 7.435,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2655,
+            "timestamp": "2026-02-13T12:18:42.029000+00:00",
+            "duration": 178.759,
+            "data": {
+              "app": "SecurityAgent",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": 2654,
+            "timestamp": "2026-02-13T12:17:55.817000+00:00",
+            "duration": 46.211,
+            "data": {
+              "title": "Waitlist.jsx — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2653,
+            "timestamp": "2026-02-13T12:17:43.410000+00:00",
+            "duration": 12.406,
+            "data": {
+              "app": "Google Chrome",
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2652,
+            "timestamp": "2026-02-13T12:17:42.443000+00:00",
+            "duration": 0.966,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "Untitled - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2651,
+            "timestamp": "2026-02-13T12:16:38.811000+00:00",
+            "duration": 63.631,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2650,
+            "timestamp": "2026-02-13T12:16:35.910000+00:00",
+            "duration": 2.9,
+            "data": {
+              "app": "Code",
+              "title": "waitlist.png — venture-forge-website"
+            }
+          },
+          {
+            "id": 2649,
+            "timestamp": "2026-02-13T12:15:24.006000+00:00",
+            "duration": 71.903,
+            "data": {
+              "app": "Code",
+              "title": "Screenshot 2026-02-12 at 5.04.58 PM.png — venture-forge-website"
+            }
+          },
+          {
+            "id": 2648,
+            "timestamp": "2026-02-13T12:15:22.763000+00:00",
+            "duration": 1.242,
+            "data": {
+              "app": "Code",
+              "title": ""
+            }
+          },
+          {
+            "id": 2647,
+            "timestamp": "2026-02-13T12:15:19.330000+00:00",
+            "duration": 3.432,
+            "data": {
+              "app": "Code",
+              "title": "Screenshot 2026-02-12 at 5.04.58 PM.png — venture-forge-website"
+            }
+          },
+          {
+            "id": 2645,
+            "timestamp": "2026-02-13T12:15:13.860000+00:00",
+            "duration": 5.469,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2646,
+            "timestamp": "2026-02-13T12:15:13.860000+00:00",
+            "duration": 0,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2644,
+            "timestamp": "2026-02-13T12:15:13.333000+00:00",
+            "duration": 0.531,
+            "data": {
+              "title": "venture-forge-website — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2643,
+            "timestamp": "2026-02-13T12:15:12.787000+00:00",
+            "duration": 0.545,
+            "data": {
+              "app": "Terminal",
+              "title": "venture-forge-website — code . — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2642,
+            "timestamp": "2026-02-13T12:15:07.913000+00:00",
+            "duration": 4.873,
+            "data": {
+              "app": "Terminal",
+              "title": "venture-forge-website — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2641,
+            "timestamp": "2026-02-13T12:15:02.283000+00:00",
+            "duration": 5.629,
+            "data": {
+              "app": "Code",
+              "title": "06-frontend.md — plans"
+            }
+          },
+          {
+            "id": 2640,
+            "timestamp": "2026-02-13T12:14:48.933000+00:00",
+            "duration": 13.349,
+            "data": {
+              "app": "Finder",
+              "title": "Recents"
+            }
+          },
+          {
+            "id": 2639,
+            "timestamp": "2026-02-13T12:14:36.774000+00:00",
+            "duration": 12.158,
+            "data": {
+              "title": "Downloads",
+              "app": "Finder"
+            }
+          },
+          {
+            "id": 2638,
+            "timestamp": "2026-02-13T12:14:28.575000+00:00",
+            "duration": 8.198,
+            "data": {
+              "title": "Waitlist.jsx — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2637,
+            "timestamp": "2026-02-13T12:14:21.175000+00:00",
+            "duration": 7.399,
+            "data": {
+              "app": "Google Chrome",
+              "title": "maas-log-prod.cn-wlcb.ufileos.com/anthropic/85cf93f4-b800-4272-a100-3670f12d053d/c1af99742d411b58cd244760e277947c.png?UCloudPublicKey=TOKEN_e15ba47a-d098-4fbd-9afc-a0dcf0e4e621&Expires=1770971886&Signature=ZH3NzjwF/6q/NDyu31vo4FZGwak= - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2636,
+            "timestamp": "2026-02-13T12:14:18.893000+00:00",
+            "duration": 2.281,
+            "data": {
+              "title": "",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2635,
+            "timestamp": "2026-02-13T12:14:17.165000+00:00",
+            "duration": 1.727,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2634,
+            "timestamp": "2026-02-13T12:14:03.224000+00:00",
+            "duration": 13.94,
+            "data": {
+              "app": "Code",
+              "title": "Waitlist.jsx — venture-forge-website"
+            }
+          },
+          {
+            "id": 2633,
+            "timestamp": "2026-02-13T12:13:56.024000+00:00",
+            "duration": 7.199,
+            "data": {
+              "title": "Navbar.jsx (Working Tree) (Navbar.jsx) — venture-forge-website",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2632,
+            "timestamp": "2026-02-13T12:13:56.023000+00:00",
+            "duration": 0,
+            "data": {
+              "title": "Visual Studio Code",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2631,
+            "timestamp": "2026-02-13T12:13:55.970000+00:00",
+            "duration": 0,
+            "data": {
+              "app": "Code",
+              "title": "Navbar.jsx (Working Tree) (Navbar.jsx) — venture-forge-website"
+            }
+          },
+          {
+            "id": 2630,
+            "timestamp": "2026-02-13T12:13:55.115000+00:00",
+            "duration": 0.854,
+            "data": {
+              "app": "Code",
+              "title": "Visual Studio Code"
+            }
+          },
+          {
+            "id": 2629,
+            "timestamp": "2026-02-13T12:13:45.702000+00:00",
+            "duration": 9.412,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2628,
+            "timestamp": "2026-02-13T12:13:20.273000+00:00",
+            "duration": 25.428,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2627,
+            "timestamp": "2026-02-13T12:13:07.813000+00:00",
+            "duration": 12.459,
+            "data": {
+              "app": "Google Chrome",
+              "title": "localhost – Network error - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2625,
+            "timestamp": "2026-02-13T12:13:05.973000+00:00",
+            "duration": 1.839,
+            "data": {
+              "app": "Google Chrome",
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2626,
+            "timestamp": "2026-02-13T12:13:05.973000+00:00",
+            "duration": 0,
+            "data": {
+              "app": "Google Chrome",
+              "title": "The Venture Forge - AI-Powered Financial Innovation - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2624,
+            "timestamp": "2026-02-13T12:12:59.261000+00:00",
+            "duration": 6.799,
+            "data": {
+              "title": "",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2623,
+            "timestamp": "2026-02-13T12:12:57.752000+00:00",
+            "duration": 1.508,
+            "data": {
+              "app": "Google Chrome",
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2622,
+            "timestamp": "2026-02-13T12:12:06.024000+00:00",
+            "duration": 51.727,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2621,
+            "timestamp": "2026-02-13T12:12:03.088000+00:00",
+            "duration": 2.935,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2620,
+            "timestamp": "2026-02-13T12:12:00.614000+00:00",
+            "duration": 2.473,
+            "data": {
+              "app": "Code",
+              "title": "01-foundation-setup.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2619,
+            "timestamp": "2026-02-13T12:11:59.399000+00:00",
+            "duration": 1.214,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2618,
+            "timestamp": "2026-02-13T12:11:55.904000+00:00",
+            "duration": 3.494,
+            "data": {
+              "app": "Google Chrome",
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2617,
+            "timestamp": "2026-02-13T12:11:55.074000+00:00",
+            "duration": 0.829,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2616,
+            "timestamp": "2026-02-13T12:11:48.623000+00:00",
+            "duration": 6.45,
+            "data": {
+              "app": "Google Chrome",
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2615,
+            "timestamp": "2026-02-13T12:11:37.354000+00:00",
+            "duration": 11.268,
+            "data": {
+              "app": "Google Chrome",
+              "title": "",
+              "url": ""
+            }
+          },
+          {
+            "id": 2614,
+            "timestamp": "2026-02-13T12:10:28.271000+00:00",
+            "duration": 69.082,
+            "data": {
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2613,
+            "timestamp": "2026-02-13T12:10:24.298000+00:00",
+            "duration": 3.972,
+            "data": {
+              "app": "Google Chrome",
+              "title": "localhost:5600 says",
+              "url": ""
+            }
+          },
+          {
+            "id": 2612,
+            "timestamp": "2026-02-13T12:10:16.027000+00:00",
+            "duration": 8.27,
+            "data": {
+              "app": "Google Chrome",
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2611,
+            "timestamp": "2026-02-13T12:10:13.641000+00:00",
+            "duration": 2.385,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "localhost:5600 says"
+            }
+          },
+          {
+            "id": 2610,
+            "timestamp": "2026-02-13T12:10:12.854000+00:00",
+            "duration": 0.786,
+            "data": {
+              "app": "Google Chrome",
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2609,
+            "timestamp": "2026-02-13T12:10:11.130000+00:00",
+            "duration": 1.723,
+            "data": {
+              "app": "Google Chrome",
+              "title": "localhost:5600 says",
+              "url": ""
+            }
+          },
+          {
+            "id": 2608,
+            "timestamp": "2026-02-13T12:08:46.874000+00:00",
+            "duration": 84.255,
+            "data": {
+              "app": "Google Chrome",
+              "title": "ActivityWatch - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2607,
+            "timestamp": "2026-02-13T12:08:33.816000+00:00",
+            "duration": 13.057,
+            "data": {
+              "app": "Google Chrome",
+              "title": "",
+              "url": ""
+            }
+          },
+          {
+            "id": 2606,
+            "timestamp": "2026-02-13T12:08:31.885000+00:00",
+            "duration": 1.93,
+            "data": {
+              "app": "Google Chrome",
+              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2605,
+            "timestamp": "2026-02-13T12:08:25.473000+00:00",
+            "duration": 6.411,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2604,
+            "timestamp": "2026-02-13T12:08:22.703000+00:00",
+            "duration": 2.769,
+            "data": {
+              "app": "Google Chrome",
+              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 2603,
+            "timestamp": "2026-02-13T12:07:46.024000+00:00",
+            "duration": 36.678,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2602,
+            "timestamp": "2026-02-13T12:07:36.725000+00:00",
+            "duration": 9.298,
+            "data": {
+              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal ▸ bash — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2601,
+            "timestamp": "2026-02-13T12:07:36.025000+00:00",
+            "duration": 0.699,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2600,
+            "timestamp": "2026-02-13T12:07:28.875000+00:00",
+            "duration": 7.149,
+            "data": {
+              "title": "abishchhetri — ✳ Implementation timing — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2599,
+            "timestamp": "2026-02-13T12:07:26.024000+00:00",
+            "duration": 2.85,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2598,
+            "timestamp": "2026-02-13T12:07:22.914000+00:00",
+            "duration": 3.109,
+            "data": {
+              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2597,
+            "timestamp": "2026-02-13T12:07:22.285000+00:00",
+            "duration": 0.628,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Implementation timing — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2596,
+            "timestamp": "2026-02-13T12:07:16.027000+00:00",
+            "duration": 6.257,
+            "data": {
+              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2595,
+            "timestamp": "2026-02-13T12:06:26.021000+00:00",
+            "duration": 50.005,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2594,
+            "timestamp": "2026-02-13T12:06:22.732000+00:00",
+            "duration": 3.288,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Implementation timing — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2593,
+            "timestamp": "2026-02-13T12:05:56.026000+00:00",
+            "duration": 26.705,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2592,
+            "timestamp": "2026-02-13T12:05:38.942000+00:00",
+            "duration": 17.083,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2591,
+            "timestamp": "2026-02-13T12:04:46.025000+00:00",
+            "duration": 52.916,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn plan container usage — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2590,
+            "timestamp": "2026-02-13T12:02:56.021000+00:00",
+            "duration": 110.003,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2589,
+            "timestamp": "2026-02-13T12:02:43.012000+00:00",
+            "duration": 13.008,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn plan container usage — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2588,
+            "timestamp": "2026-02-13T12:02:40.307000+00:00",
+            "duration": 2.704,
+            "data": {
+              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2587,
+            "timestamp": "2026-02-13T12:02:20.441000+00:00",
+            "duration": 19.865,
+            "data": {
+              "title": "01-foundation-setup.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2586,
+            "timestamp": "2026-02-13T12:02:05.793000+00:00",
+            "duration": 14.647,
+            "data": {
+              "app": "Code",
+              "title": ""
+            }
+          },
+          {
+            "id": 2585,
+            "timestamp": "2026-02-13T12:01:48.216000+00:00",
+            "duration": 17.576,
+            "data": {
+              "title": "01-foundation-setup.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2584,
+            "timestamp": "2026-02-13T12:01:43.492000+00:00",
+            "duration": 4.723,
+            "data": {
+              "app": "Code",
+              "title": "06-entrepreneur-portal.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2583,
+            "timestamp": "2026-02-13T12:01:38.819000+00:00",
+            "duration": 4.672,
+            "data": {
+              "app": "Code",
+              "title": "00-overview.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2582,
+            "timestamp": "2026-02-13T12:01:36.025000+00:00",
+            "duration": 2.793,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn plan container usage — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2581,
+            "timestamp": "2026-02-13T12:01:26.025000+00:00",
+            "duration": 9.999,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2580,
+            "timestamp": "2026-02-13T12:01:06.023000+00:00",
+            "duration": 20.001,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2579,
+            "timestamp": "2026-02-13T12:00:47.244000+00:00",
+            "duration": 18.778,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2578,
+            "timestamp": "2026-02-13T12:00:45.326000+00:00",
+            "duration": 1.917,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2577,
+            "timestamp": "2026-02-13T12:00:30.762000+00:00",
+            "duration": 14.563,
+            "data": {
+              "app": "Code",
+              "title": "00-overview.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2576,
+            "timestamp": "2026-02-13T12:00:24.999000+00:00",
+            "duration": 5.762,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2575,
+            "timestamp": "2026-02-13T12:00:24.392000+00:00",
+            "duration": 0.606,
+            "data": {
+              "title": "abishchhetri — zai — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2574,
+            "timestamp": "2026-02-13T12:00:23.035000+00:00",
+            "duration": 1.356,
+            "data": {
+              "title": "abishchhetri — zai — grep ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2573,
+            "timestamp": "2026-02-13T12:00:22.207000+00:00",
+            "duration": 0.827,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2572,
+            "timestamp": "2026-02-13T12:00:06.025000+00:00",
+            "duration": 16.181,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn implementation check — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2571,
+            "timestamp": "2026-02-13T11:59:59.132000+00:00",
+            "duration": 6.892,
+            "data": {
+              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2570,
+            "timestamp": "2026-02-13T11:59:56.024000+00:00",
+            "duration": 3.107,
+            "data": {
+              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2569,
+            "timestamp": "2026-02-13T11:59:41.234000+00:00",
+            "duration": 14.789,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2568,
+            "timestamp": "2026-02-13T11:59:36.930000+00:00",
+            "duration": 4.303,
+            "data": {
+              "url": "",
+              "app": "Google Chrome",
+              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2567,
+            "timestamp": "2026-02-13T11:59:36.023000+00:00",
+            "duration": 0.906,
+            "data": {
+              "title": "09-migration-path.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2566,
+            "timestamp": "2026-02-13T11:59:03.036000+00:00",
+            "duration": 32.986,
+            "data": {
+              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2565,
+            "timestamp": "2026-02-13T11:59:01.943000+00:00",
+            "duration": 1.092,
+            "data": {
+              "title": "",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2564,
+            "timestamp": "2026-02-13T11:58:56.711000+00:00",
+            "duration": 5.231,
+            "data": {
+              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2563,
+            "timestamp": "2026-02-13T11:58:55.198000+00:00",
+            "duration": 1.512,
+            "data": {
+              "title": "",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2562,
+            "timestamp": "2026-02-13T11:58:44.915000+00:00",
+            "duration": 10.282,
+            "data": {
+              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2561,
+            "timestamp": "2026-02-13T11:57:56.026000+00:00",
+            "duration": 48.888,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn implementation check — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2560,
+            "timestamp": "2026-02-13T11:57:37.248000+00:00",
+            "duration": 18.777,
+            "data": {
+              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2559,
+            "timestamp": "2026-02-13T11:57:37.234000+00:00",
+            "duration": 0,
+            "data": {
+              "title": "abishchhetri — eza — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2558,
+            "timestamp": "2026-02-13T11:57:36.029000+00:00",
+            "duration": 1.218,
+            "data": {
+              "title": "Terminal — login — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2557,
+            "timestamp": "2026-02-13T11:57:32.937000+00:00",
+            "duration": 3.091,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2556,
+            "timestamp": "2026-02-13T11:57:32.384000+00:00",
+            "duration": 0.552,
+            "data": {
+              "app": "Code",
+              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend"
+            }
+          },
+          {
+            "id": 2555,
+            "timestamp": "2026-02-13T11:57:29.567000+00:00",
+            "duration": 2.816,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2554,
+            "timestamp": "2026-02-13T11:57:10.765000+00:00",
+            "duration": 18.801,
+            "data": {
+              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2553,
+            "timestamp": "2026-02-13T11:57:08.833000+00:00",
+            "duration": 1.931,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn implementation check — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2552,
+            "timestamp": "2026-02-13T11:57:06.025000+00:00",
+            "duration": 2.807,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2551,
+            "timestamp": "2026-02-13T11:57:01.502000+00:00",
+            "duration": 4.522,
+            "data": {
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ path_helper — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2550,
+            "timestamp": "2026-02-13T11:56:46.021000+00:00",
+            "duration": 15.48,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2549,
+            "timestamp": "2026-02-13T11:56:39.179000+00:00",
+            "duration": 6.841,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn implementation check — rg ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2548,
+            "timestamp": "2026-02-13T11:56:26.020000+00:00",
+            "duration": 13.158,
+            "data": {
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2547,
+            "timestamp": "2026-02-13T11:56:25.023000+00:00",
+            "duration": 0.996,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn implementation check — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2546,
+            "timestamp": "2026-02-13T11:55:36.023000+00:00",
+            "duration": 48.999,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2545,
+            "timestamp": "2026-02-13T11:55:26.139000+00:00",
+            "duration": 9.883,
+            "data": {
+              "title": "",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2544,
+            "timestamp": "2026-02-13T11:55:26.135000+00:00",
+            "duration": 0,
+            "data": {
+              "app": "Terminal",
+              "title": ""
+            }
+          },
+          {
+            "id": 2543,
+            "timestamp": "2026-02-13T11:55:06.024000+00:00",
+            "duration": 20.114,
+            "data": {
+              "app": "Terminal",
+              "title": "Plan_of_action_FE-caplyst — pbcopy — pbcopy — 236×61"
+            }
+          },
+          {
+            "id": 2542,
+            "timestamp": "2026-02-13T11:55:04.654000+00:00",
+            "duration": 1.369,
+            "data": {
+              "title": "Plan_of_action_FE-caplyst — pbcopy — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2541,
+            "timestamp": "2026-02-13T11:54:59.555000+00:00",
+            "duration": 5.098,
+            "data": {
+              "app": "Terminal",
+              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2540,
+            "timestamp": "2026-02-13T11:54:57.826000+00:00",
+            "duration": 1.728,
+            "data": {
+              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2539,
+            "timestamp": "2026-02-13T11:54:07.353000+00:00",
+            "duration": 50.472,
+            "data": {
+              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2538,
+            "timestamp": "2026-02-13T11:54:03.521000+00:00",
+            "duration": 3.831,
+            "data": {
+              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 2537,
+            "timestamp": "2026-02-13T11:53:59.704000+00:00",
+            "duration": 3.816,
+            "data": {
+              "app": "Terminal",
+              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — pbcopy — 236×61"
+            }
+          },
+          {
+            "id": 2536,
+            "timestamp": "2026-02-13T11:53:56.024000+00:00",
+            "duration": 3.679,
+            "data": {
+              "title": "Plan_of_action_FE-caplyst — pbcopy — pbcopy — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2535,
+            "timestamp": "2026-02-13T11:53:46.026000+00:00",
+            "duration": 9.997,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2534,
+            "timestamp": "2026-02-13T11:53:42.679000+00:00",
+            "duration": 3.346,
+            "data": {
+              "app": "Terminal",
+              "title": "Plan_of_action_FE-caplyst — pbcopy — pbcopy — 236×61"
+            }
+          },
+          {
+            "id": 2533,
+            "timestamp": "2026-02-13T11:53:40.208000+00:00",
+            "duration": 2.47,
+            "data": {
+              "url": "",
+              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2532,
+            "timestamp": "2026-02-13T11:53:36.571000+00:00",
+            "duration": 3.636,
+            "data": {
+              "app": "Terminal",
+              "title": "Plan_of_action_FE-caplyst — pbcopy — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2531,
+            "timestamp": "2026-02-13T11:53:32.269000+00:00",
+            "duration": 4.301,
+            "data": {
+              "app": "Terminal",
+              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2530,
+            "timestamp": "2026-02-13T11:53:26.029000+00:00",
+            "duration": 6.239,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2529,
+            "timestamp": "2026-02-13T11:53:16.950000+00:00",
+            "duration": 9.078,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "Copy current path command - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2528,
+            "timestamp": "2026-02-13T11:52:51.922000+00:00",
+            "duration": 25.027,
+            "data": {
+              "title": "ChatGPT - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2527,
+            "timestamp": "2026-02-13T11:52:50.656000+00:00",
+            "duration": 1.265,
+            "data": {
+              "app": "Terminal",
+              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2526,
+            "timestamp": "2026-02-13T11:52:46.900000+00:00",
+            "duration": 3.755,
+            "data": {
+              "title": "ChatGPT - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2525,
+            "timestamp": "2026-02-13T11:52:34.404000+00:00",
+            "duration": 12.495,
+            "data": {
+              "url": "",
+              "title": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 2524,
+            "timestamp": "2026-02-13T11:52:30.780000+00:00",
+            "duration": 3.623,
+            "data": {
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 2523,
+            "timestamp": "2026-02-13T11:52:28.488000+00:00",
+            "duration": 2.291,
+            "data": {
+              "app": "Terminal",
+              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2522,
+            "timestamp": "2026-02-13T11:52:28.486000+00:00",
+            "duration": 0,
+            "data": {
+              "app": "Terminal",
+              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2521,
+            "timestamp": "2026-02-13T11:52:26.032000+00:00",
+            "duration": 2.455,
+            "data": {
+              "title": "caplyst-frontend — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2520,
+            "timestamp": "2026-02-13T11:52:15.258000+00:00",
+            "duration": 10.773,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2519,
+            "timestamp": "2026-02-13T11:52:14.073000+00:00",
+            "duration": 1.184,
+            "data": {
+              "app": "Google Chrome",
+              "url": "",
+              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)"
+            }
+          },
+          {
+            "id": 2518,
+            "timestamp": "2026-02-13T11:52:07.607000+00:00",
+            "duration": 6.465,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2517,
+            "timestamp": "2026-02-13T11:52:06.027000+00:00",
+            "duration": 1.579,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2516,
+            "timestamp": "2026-02-13T11:52:04.647000+00:00",
+            "duration": 1.379,
+            "data": {
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ react lucide-react date-fns clsx — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2515,
+            "timestamp": "2026-02-13T11:52:02.584000+00:00",
+            "duration": 2.062,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ node — 236×59"
+            }
+          },
+          {
+            "id": 2514,
+            "timestamp": "2026-02-13T11:51:56.024000+00:00",
+            "duration": 6.559,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2513,
+            "timestamp": "2026-02-13T11:51:49.002000+00:00",
+            "duration": 7.021,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ npm install — 236×59"
+            }
+          },
+          {
+            "id": 2512,
+            "timestamp": "2026-02-13T11:51:48.472000+00:00",
+            "duration": 0.529,
+            "data": {
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ node-gyp — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2511,
+            "timestamp": "2026-02-13T11:51:45.434000+00:00",
+            "duration": 3.037,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2510,
+            "timestamp": "2026-02-13T11:51:44.779000+00:00",
+            "duration": 0.654,
+            "data": {
+              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2509,
+            "timestamp": "2026-02-13T11:51:42.621000+00:00",
+            "duration": 2.157,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2508,
+            "timestamp": "2026-02-13T11:51:41.570000+00:00",
+            "duration": 1.05,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2507,
+            "timestamp": "2026-02-13T11:51:40.081000+00:00",
+            "duration": 1.488,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — grep ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2506,
+            "timestamp": "2026-02-13T11:51:39.359000+00:00",
+            "duration": 0.721,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2505,
+            "timestamp": "2026-02-13T11:51:36.028000+00:00",
+            "duration": 3.33,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2504,
+            "timestamp": "2026-02-13T11:51:34.954000+00:00",
+            "duration": 1.073,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ npm install — 236×59"
+            }
+          },
+          {
+            "id": 2503,
+            "timestamp": "2026-02-13T11:51:33.424000+00:00",
+            "duration": 1.529,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2502,
+            "timestamp": "2026-02-13T11:51:26.025000+00:00",
+            "duration": 7.398,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2501,
+            "timestamp": "2026-02-13T11:51:23.295000+00:00",
+            "duration": 2.729,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2500,
+            "timestamp": "2026-02-13T11:50:56.024000+00:00",
+            "duration": 27.27,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2499,
+            "timestamp": "2026-02-13T11:50:47.311000+00:00",
+            "duration": 8.712,
+            "data": {
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ bash — 236×59",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2498,
+            "timestamp": "2026-02-13T11:50:46.026000+00:00",
+            "duration": 1.284,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2497,
+            "timestamp": "2026-02-13T11:50:38.957000+00:00",
+            "duration": 7.068,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2496,
+            "timestamp": "2026-02-13T11:50:36.025000+00:00",
+            "duration": 2.931,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2495,
+            "timestamp": "2026-02-13T11:50:20.066000+00:00",
+            "duration": 15.958,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
+            }
+          },
+          {
+            "id": 2493,
+            "timestamp": "2026-02-13T11:50:17.808000+00:00",
+            "duration": 2.238,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ ps — 236×59"
+            }
+          },
+          {
+            "id": 2494,
+            "timestamp": "2026-02-13T11:50:17.808000+00:00",
+            "duration": 2.257,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ ps — 236×59"
+            }
+          },
+          {
+            "id": 2492,
+            "timestamp": "2026-02-13T11:50:16.022000+00:00",
+            "duration": 1.785,
+            "data": {
+              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2491,
+            "timestamp": "2026-02-13T11:50:06.025000+00:00",
+            "duration": 9.996,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
+            }
+          },
+          {
+            "id": 2490,
+            "timestamp": "2026-02-13T11:49:58.082000+00:00",
+            "duration": 7.942,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ node — 236×61"
+            }
+          },
+          {
+            "id": 2489,
+            "timestamp": "2026-02-13T11:49:57.259000+00:00",
+            "duration": 0.822,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ zsh — 236×61"
+            }
+          },
+          {
+            "id": 2488,
+            "timestamp": "2026-02-13T11:49:50.110000+00:00",
+            "duration": 7.148,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2487,
+            "timestamp": "2026-02-13T11:49:45.085000+00:00",
+            "duration": 5.024,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ node — 236×61"
+            }
+          },
+          {
+            "id": 2486,
+            "timestamp": "2026-02-13T11:49:27.065000+00:00",
+            "duration": 18.019,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2485,
+            "timestamp": "2026-02-13T11:49:26.022000+00:00",
+            "duration": 1.042,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ node — 236×61"
+            }
+          }
+        ]
+      },
+      "aw-watcher-afk_Abishs-MacBook-Air.local": {
+        "metadata": {
+          "id": "aw-watcher-afk_Abishs-MacBook-Air.local",
+          "created": "2026-02-12T13:29:12.769229+00:00",
+          "name": null,
+          "type": "afkstatus",
+          "client": "aw-watcher-afk",
+          "hostname": "Abishs-MacBook-Air.local",
+          "data": {},
+          "last_updated": "2026-02-13T14:25:34.348000+00:00"
+        },
+        "events": [
+          {
+            "id": 2987,
+            "timestamp": "2026-02-13T14:20:40.060000+00:00",
+            "duration": 294.288,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 2983,
+            "timestamp": "2026-02-13T14:15:38.018000+00:00",
+            "duration": 302.041,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 2931,
+            "timestamp": "2026-02-13T14:00:39.184000+00:00",
+            "duration": 898.833,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 2930,
+            "timestamp": "2026-02-13T13:51:56.234000+00:00",
+            "duration": 522.949,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 2868,
+            "timestamp": "2026-02-13T13:33:57.319000+00:00",
+            "duration": 1078.914,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 2867,
+            "timestamp": "2026-02-13T13:30:03.032000+00:00",
+            "duration": 234.286,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 2786,
+            "timestamp": "2026-02-13T13:10:05.912000+00:00",
+            "duration": 1197.119,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 2785,
+            "timestamp": "2026-02-13T13:03:41.290000+00:00",
+            "duration": 384.621,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 2692,
+            "timestamp": "2026-02-13T12:34:34.205000+00:00",
+            "duration": 1747.084,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 2693,
+            "timestamp": "2026-02-13T12:34:34.205000+00:00",
+            "duration": 39.389,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 2691,
+            "timestamp": "2026-02-13T12:29:14.187000+00:00",
+            "duration": 320.018,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 2658,
+            "timestamp": "2026-02-13T12:21:36.770000+00:00",
+            "duration": 457.416,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 2656,
+            "timestamp": "2026-02-13T12:18:08.168000+00:00",
+            "duration": 208.601,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 2470,
+            "timestamp": "2026-02-13T11:46:12.806000+00:00",
+            "duration": 1915.361,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 2471,
+            "timestamp": "2026-02-13T11:46:12.806000+00:00",
+            "duration": 22.158,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 2466,
+            "timestamp": "2026-02-13T11:39:21.925000+00:00",
+            "duration": 410.881,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 2215,
+            "timestamp": "2026-02-13T10:24:44.854000+00:00",
+            "duration": 4477.07,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 2213,
+            "timestamp": "2026-02-13T10:21:31.583000+00:00",
+            "duration": 193.27,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1944,
+            "timestamp": "2026-02-13T09:16:04.964000+00:00",
+            "duration": 3926.618,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1945,
+            "timestamp": "2026-02-13T09:16:04.964000+00:00",
+            "duration": 14.794,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1942,
+            "timestamp": "2026-02-13T09:10:32.084000+00:00",
+            "duration": 332.88,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1941,
+            "timestamp": "2026-02-13T09:10:32.082000+00:00",
+            "duration": 0.001,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1940,
+            "timestamp": "2026-02-13T09:06:05.875000+00:00",
+            "duration": 0,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1939,
+            "timestamp": "2026-02-13T08:50:47.996000+00:00",
+            "duration": 0.002,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1704,
+            "timestamp": "2026-02-13T07:49:18.243000+00:00",
+            "duration": 3097.33,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1699,
+            "timestamp": "2026-02-13T07:08:23.531000+00:00",
+            "duration": 2454.711,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1700,
+            "timestamp": "2026-02-13T07:08:23.531000+00:00",
+            "duration": 231.234766,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1698,
+            "timestamp": "2026-02-13T07:08:18.521000+00:00",
+            "duration": 5.01,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1696,
+            "timestamp": "2026-02-13T07:04:17.333000+00:00",
+            "duration": 241.187,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1690,
+            "timestamp": "2026-02-13T07:03:19.223000+00:00",
+            "duration": 58.109,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1688,
+            "timestamp": "2026-02-13T06:58:07.366000+00:00",
+            "duration": 311.856,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1652,
+            "timestamp": "2026-02-13T06:40:06.475000+00:00",
+            "duration": 1080.893,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1646,
+            "timestamp": "2026-02-13T06:28:43.088000+00:00",
+            "duration": 683.386,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1647,
+            "timestamp": "2026-02-13T06:28:43.088000+00:00",
+            "duration": 357.455064,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1648,
+            "timestamp": "2026-02-13T06:28:43.088000+00:00",
+            "duration": 347.440073,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1643,
+            "timestamp": "2026-02-13T06:28:29.622000+00:00",
+            "duration": 13.467,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1637,
+            "timestamp": "2026-02-13T06:21:32.156000+00:00",
+            "duration": 417.465,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1638,
+            "timestamp": "2026-02-13T06:21:32.156000+00:00",
+            "duration": 317.759446,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1639,
+            "timestamp": "2026-02-13T06:21:32.156000+00:00",
+            "duration": 312.749918,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1623,
+            "timestamp": "2026-02-13T06:02:27.754000+00:00",
+            "duration": 1144.403,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1617,
+            "timestamp": "2026-02-13T03:16:50.533000+00:00",
+            "duration": 9937.22,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1616,
+            "timestamp": "2026-02-13T03:00:29.750000+00:00",
+            "duration": 777.933204,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1615,
+            "timestamp": "2026-02-13T02:17:56.441000+00:00",
+            "duration": 2329.449499,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1614,
+            "timestamp": "2026-02-13T02:01:26.652000+00:00",
+            "duration": 712.795046,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1613,
+            "timestamp": "2026-02-13T01:45:04.867000+00:00",
+            "duration": 707.784044,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1612,
+            "timestamp": "2026-02-13T01:20:38.930000+00:00",
+            "duration": 1199.575902,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1611,
+            "timestamp": "2026-02-13T01:02:50.130000+00:00",
+            "duration": 652.679034,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1610,
+            "timestamp": "2026-02-13T00:45:15.344000+00:00",
+            "duration": 647.667362,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1609,
+            "timestamp": "2026-02-13T00:27:11.435000+00:00",
+            "duration": 749.488299,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1608,
+            "timestamp": "2026-02-13T00:10:37.640000+00:00",
+            "duration": 587.554955,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1607,
+            "timestamp": "2026-02-12T23:55:32.828000+00:00",
+            "duration": 582.54893,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1606,
+            "timestamp": "2026-02-12T23:36:05.945000+00:00",
+            "duration": 692.338533,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1605,
+            "timestamp": "2026-02-12T23:19:53.155000+00:00",
+            "duration": 527.448007,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1604,
+            "timestamp": "2026-02-12T23:02:24.346000+00:00",
+            "duration": 522.432569,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1603,
+            "timestamp": "2026-02-12T22:45:13.553000+00:00",
+            "duration": 517.418998,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1602,
+            "timestamp": "2026-02-12T22:22:52.626000+00:00",
+            "duration": 948.223322,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1601,
+            "timestamp": "2026-02-12T22:06:04.830000+00:00",
+            "duration": 457.303909,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1600,
+            "timestamp": "2026-02-12T21:40:11.874000+00:00",
+            "duration": 940.11108,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1599,
+            "timestamp": "2026-02-12T21:22:22.050000+00:00",
+            "duration": 402.183116,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1598,
+            "timestamp": "2026-02-12T21:07:10.251000+00:00",
+            "duration": 397.170158,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1597,
+            "timestamp": "2026-02-12T20:50:14.445000+00:00",
+            "duration": 392.160394,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1596,
+            "timestamp": "2026-02-12T20:32:34.678000+00:00",
+            "duration": 387.156899,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1595,
+            "timestamp": "2026-02-12T20:15:55.889000+00:00",
+            "duration": 382.133807,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1594,
+            "timestamp": "2026-02-12T19:59:20.087000+00:00",
+            "duration": 377.125397,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1593,
+            "timestamp": "2026-02-12T19:41:40.291000+00:00",
+            "duration": 372.116405,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1592,
+            "timestamp": "2026-02-12T19:25:48.494000+00:00",
+            "duration": 361.931684,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1591,
+            "timestamp": "2026-02-12T19:09:27.698000+00:00",
+            "duration": 356.924345,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1590,
+            "timestamp": "2026-02-12T18:54:04.895000+00:00",
+            "duration": 351.915999,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1588,
+            "timestamp": "2026-02-12T18:38:44.767000+00:00",
+            "duration": 346.90623,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1589,
+            "timestamp": "2026-02-12T18:38:44.767000+00:00",
+            "duration": 326.87003,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1587,
+            "timestamp": "2026-02-12T18:28:19.986000+00:00",
+            "duration": 301.817118,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1586,
+            "timestamp": "2026-02-12T18:10:32.189000+00:00",
+            "duration": 296.80538,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1585,
+            "timestamp": "2026-02-12T17:54:33.395000+00:00",
+            "duration": 291.793737,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1584,
+            "timestamp": "2026-02-12T17:38:47.286000+00:00",
+            "duration": 286.791966,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1583,
+            "timestamp": "2026-02-12T17:31:05.496000+00:00",
+            "duration": 241.716107,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1582,
+            "timestamp": "2026-02-12T17:15:50.681000+00:00",
+            "duration": 236.71176,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1581,
+            "timestamp": "2026-02-12T17:00:33.871000+00:00",
+            "duration": 226.623684,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1580,
+            "timestamp": "2026-02-12T16:43:05.076000+00:00",
+            "duration": 221.604272,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1579,
+            "timestamp": "2026-02-12T16:26:26.286000+00:00",
+            "duration": 216.595572,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1578,
+            "timestamp": "2026-02-12T16:09:10.089000+00:00",
+            "duration": 211.584917,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1577,
+            "timestamp": "2026-02-12T16:07:02.361000+00:00",
+            "duration": 127.727,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1576,
+            "timestamp": "2026-02-12T15:51:27.354000+00:00",
+            "duration": 0,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1569,
+            "timestamp": "2026-02-12T15:47:52.438000+00:00",
+            "duration": 20.313,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 1575,
+            "timestamp": "2026-02-12T15:47:52.438000+00:00",
+            "duration": 20.312,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 468,
+            "timestamp": "2026-02-12T11:06:31.115000+00:00",
+            "duration": 16503.944,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 464,
+            "timestamp": "2026-02-12T10:49:06.636000+00:00",
+            "duration": 1044.478,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 439,
+            "timestamp": "2026-02-12T10:42:37.070000+00:00",
+            "duration": 389.565,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 437,
+            "timestamp": "2026-02-12T10:31:57.285000+00:00",
+            "duration": 639.784,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 433,
+            "timestamp": "2026-02-12T10:16:32.799000+00:00",
+            "duration": 624.801555,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 434,
+            "timestamp": "2026-02-12T10:16:32.799000+00:00",
+            "duration": 494.555588,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 423,
+            "timestamp": "2026-02-12T10:13:01.290000+00:00",
+            "duration": 211.509,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 422,
+            "timestamp": "2026-02-12T10:08:06.757000+00:00",
+            "duration": 294.532,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 415,
+            "timestamp": "2026-02-12T10:04:47.968000+00:00",
+            "duration": 198.79,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 412,
+            "timestamp": "2026-02-12T09:58:50.312000+00:00",
+            "duration": 357.655,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 342,
+            "timestamp": "2026-02-12T09:42:59.099000+00:00",
+            "duration": 951.212,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 339,
+            "timestamp": "2026-02-12T09:37:41.832000+00:00",
+            "duration": 317.266,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 195,
+            "timestamp": "2026-02-12T08:53:51.052000+00:00",
+            "duration": 2630.78,
+            "data": {
+              "status": "not-afk"
+            }
+          },
+          {
+            "id": 190,
+            "timestamp": "2026-02-12T08:49:28.959000+00:00",
+            "duration": 262.092,
+            "data": {
+              "status": "afk"
+            }
+          },
+          {
+            "id": 1,
+            "timestamp": "2026-02-12T07:59:12.763000+00:00",
+            "duration": 3016.195,
+            "data": {
+              "status": "not-afk"
+            }
+          }
+        ]
+      }
+    },
+    "summary": {
+      "totalEvents": 1099,
+      "bucketTypes": [
+        "currentwindow",
+        "afkstatus"
+      ]
+    }
+  },
+  "gitActivity": {
+    "totalCommits": 0,
+    "byProject": {},
+    "commits": []
+  },
+  "summary": {
+    "topApps": {
+      "Terminal": 6653.181,
+      "Code": 1361.0710000000001,
+      "Google Chrome": 1128.3449999999998,
+      "SecurityAgent": 178.759,
+      "Finder": 50.18
+    },
+    "topWebsites": {},
+    "totalActiveTime": 9371.53599999999,
+    "afkTime": 43096.567079999986,
+    "activeHours": "2.60",
+    "afkHours": "11.97"
+  },
+  "manualTasks": []
+}

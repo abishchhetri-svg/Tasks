@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tasks Activity Tracker</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <div class="header">
+      <h1>📋 Tasks Activity</h1>
+      <div class="date-badge" id="currentDate"></div>
+    </div>
+
+    <!-- Loading State -->
+    <div id="loading" class="loading">
+      <div class="spinner"></div>
+      <p>Loading your activity...</p>
+    </div>
+
+    <!-- Main Content -->
+    <div id="mainContent" class="hidden">
+      <!-- Quick Stats -->
+      <div class="stats-grid">
+        <div class="stat-card">
+          <span class="stat-icon">⏱️</span>
+          <div class="stat-info">
+            <span class="stat-value" id="hoursActive">-</span>
+            <span class="stat-label">Active Hours</span>
+          </div>
+        </div>
+        <div class="stat-card">
+          <span class="stat-icon">💻</span>
+          <div class="stat-info">
+            <span class="stat-value" id="hoursCoding">-</span>
+            <span class="stat-label">Coding</span>
+          </div>
+        </div>
+        <div class="stat-card">
+          <span class="stat-icon">📝</span>
+          <div class="stat-info">
+            <span class="stat-value" id="commitsToday">-</span>
+            <span class="stat-label">Commits</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quick Add Form -->
+      <div class="quick-add">
+        <h2>⚡ Quick Add</h2>
+        <form id="quickAddForm">
+          <select id="taskType" required>
+            <option value="completed">✅ Completed Task</option>
+            <option value="learning">💡 Learning</option>
+            <option value="in-progress">🔄 In Progress</option>
+            <option value="blocker">🚧 Blocker</option>
+          </select>
+          <input
+            type="text"
+            id="taskDescription"
+            placeholder="What did you do?"
+            required
+            autocomplete="off"
+          >
+          <button type="submit" class="btn-primary">
+            <span>Add</span>
+          </button>
+        </form>
+        <div id="addStatus" class="status-message hidden"></div>
+      </div>
+
+      <!-- Today's Activity -->
+      <div class="section">
+        <div class="section-header">
+          <h2>📊 Today's Activity</h2>
+          <button id="refreshBtn" class="btn-icon" title="Refresh">🔄</button>
+        </div>
+
+        <div class="tabs">
+          <button class="tab active" data-tab="completed">Completed</button>
+          <button class="tab" data-tab="learning">Learnings</button>
+          <button class="tab" data-tab="in-progress">In Progress</button>
+        </div>
+
+        <div class="tab-content" id="tabContent">
+          <ul class="task-list" id="taskList"></ul>
+        </div>
+      </div>
+
+      <!-- Learnings Section -->
+      <div class="section learnings-section">
+        <h2>💡 Recent Learnings</h2>
+        <ul class="learning-list" id="learningList"></ul>
+      </div>
+    </div>
+
+    <!-- Error State -->
+    <div id="errorState" class="error-state hidden">
+      <div class="error-icon">⚠️</div>
+      <p>Unable to load activity data</p>
+      <p class="error-detail" id="errorDetail"></p>
+      <button id="retryBtn" class="btn-secondary">Retry</button>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      <a href="https://github.com/abishchhetri-svg/Tasks" target="_blank">View Full Log →</a>
+      <button id="openDashboard" class="btn-link">ActivityWatch →</button>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

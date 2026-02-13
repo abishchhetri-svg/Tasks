@@ -1,0 +1,18 @@
+{
+  "name": "tasks-activity-tracker",
+  "version": "2.0.0",
+  "description": "Automated activity tracking with ActivityWatch and Claude AI analysis",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "collect": "node scripts/collect-activity.js",
+    "summary": "node scripts/generate-summary.js",
+    "setup-cron": "bash scripts/setup-cron.sh",
+    "remove-cron": "bash scripts/remove-cron.sh"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  }
+}
