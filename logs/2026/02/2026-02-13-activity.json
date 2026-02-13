@@ -1,7 +1,7 @@
 {
   "date": "2026-02-13",
-  "lastUpdated": "2026-02-13T14:25:36.131Z",
-  "collectionCount": 1,
+  "lastUpdated": "2026-02-13T14:48:22.074Z",
+  "collectionCount": 2,
   "activityWatch": {
     "buckets": {
       "aw-watcher-window_Abishs-MacBook-Air.local": {
@@ -13,13 +13,802 @@
           "client": "aw-watcher-window",
           "hostname": "Abishs-MacBook-Air.local",
           "data": {},
-          "last_updated": "2026-02-13T14:25:35.951000+00:00"
+          "last_updated": "2026-02-13T14:48:21.931000+00:00"
         },
         "events": [
           {
+            "id": 3084,
+            "timestamp": "2026-02-13T14:48:21.931000+00:00",
+            "duration": 0,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ code architecture explanation — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3083,
+            "timestamp": "2026-02-13T14:48:16.076000+00:00",
+            "duration": 5.854,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ code architecture explanation — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3082,
+            "timestamp": "2026-02-13T14:48:07.670000+00:00",
+            "duration": 8.405,
+            "data": {
+              "title": "abishchhetri — ✳ code architecture explanation — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3081,
+            "timestamp": "2026-02-13T14:47:56.074000+00:00",
+            "duration": 11.595,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ code architecture explanation — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3080,
+            "timestamp": "2026-02-13T14:47:52.895000+00:00",
+            "duration": 3.178,
+            "data": {
+              "title": "abishchhetri — ✳ check plan updates — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3079,
+            "timestamp": "2026-02-13T14:47:52.084000+00:00",
+            "duration": 0.81,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ check plan updates — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3078,
+            "timestamp": "2026-02-13T14:47:36.072000+00:00",
+            "duration": 16.011,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ code architecture explanation — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3077,
+            "timestamp": "2026-02-13T14:47:33.088000+00:00",
+            "duration": 2.983,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ code architecture explanation — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3076,
+            "timestamp": "2026-02-13T14:47:16.071000+00:00",
+            "duration": 17.016,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ code architecture explanation — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3075,
+            "timestamp": "2026-02-13T14:47:10.840000+00:00",
+            "duration": 5.23,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ check plan updates — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3074,
+            "timestamp": "2026-02-13T14:47:10.325000+00:00",
+            "duration": 0.514,
+            "data": {
+              "title": "abishchhetri — ✳ check plan updates — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3073,
+            "timestamp": "2026-02-13T14:46:56.071000+00:00",
+            "duration": 14.253,
+            "data": {
+              "title": "abishchhetri — ✳ check plan updates — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3072,
+            "timestamp": "2026-02-13T14:46:53.976000+00:00",
+            "duration": 2.094,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ code architecture explanation — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3071,
+            "timestamp": "2026-02-13T14:46:26.075000+00:00",
+            "duration": 27.9,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ check plan updates — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3070,
+            "timestamp": "2026-02-13T14:46:06.075000+00:00",
+            "duration": 19.999,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ code architecture explanation — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3069,
+            "timestamp": "2026-02-13T14:45:56.073000+00:00",
+            "duration": 10.001,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3068,
+            "timestamp": "2026-02-13T14:44:36.072000+00:00",
+            "duration": 80,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ check plan updates — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3067,
+            "timestamp": "2026-02-13T14:44:26.072000+00:00",
+            "duration": 9.999,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3066,
+            "timestamp": "2026-02-13T14:44:21.916000+00:00",
+            "duration": 4.155,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ code architecture explanation — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3065,
+            "timestamp": "2026-02-13T14:44:19.077000+00:00",
+            "duration": 2.838,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ check plan updates — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3064,
+            "timestamp": "2026-02-13T14:44:18.541000+00:00",
+            "duration": 0.535,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ check plan updates — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3063,
+            "timestamp": "2026-02-13T14:44:16.073000+00:00",
+            "duration": 2.467,
+            "data": {
+              "title": "abishchhetri — ✳ check plan updates — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3062,
+            "timestamp": "2026-02-13T14:44:13.845000+00:00",
+            "duration": 2.227,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ check plan updates — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3061,
+            "timestamp": "2026-02-13T14:43:36.072000+00:00",
+            "duration": 37.772,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ check plan updates — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3060,
+            "timestamp": "2026-02-13T14:43:33.342000+00:00",
+            "duration": 2.729,
+            "data": {
+              "title": "abishchhetri — ✳ check plan updates — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3059,
+            "timestamp": "2026-02-13T14:42:06.070000+00:00",
+            "duration": 87.271,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3058,
+            "timestamp": "2026-02-13T14:42:01.663000+00:00",
+            "duration": 4.406,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ check plan updates — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3057,
+            "timestamp": "2026-02-13T14:41:36.070000+00:00",
+            "duration": 25.592,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3056,
+            "timestamp": "2026-02-13T14:41:25.865000+00:00",
+            "duration": 10.204,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ check plan updates — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3055,
+            "timestamp": "2026-02-13T14:41:06.072000+00:00",
+            "duration": 19.792,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3054,
+            "timestamp": "2026-02-13T14:40:56.792000+00:00",
+            "duration": 9.279,
+            "data": {
+              "title": "abishchhetri — ✳ check plan updates — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3053,
+            "timestamp": "2026-02-13T14:40:34.013000+00:00",
+            "duration": 22.778,
+            "data": {
+              "title": "abishchhetri — ✳ check plan updates — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3052,
+            "timestamp": "2026-02-13T14:40:24.772000+00:00",
+            "duration": 9.24,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3051,
+            "timestamp": "2026-02-13T14:40:24.264000+00:00",
+            "duration": 0.507,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn components count — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3050,
+            "timestamp": "2026-02-13T14:38:46.069000+00:00",
+            "duration": 98.194,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3049,
+            "timestamp": "2026-02-13T14:38:38.269000+00:00",
+            "duration": 7.799,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn components count — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3048,
+            "timestamp": "2026-02-13T14:37:56.070000+00:00",
+            "duration": 42.198,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3047,
+            "timestamp": "2026-02-13T14:37:47.899000+00:00",
+            "duration": 8.17,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3046,
+            "timestamp": "2026-02-13T14:37:45.178000+00:00",
+            "duration": 2.72,
+            "data": {
+              "title": "00-overview.md — caplyst-frontend",
+              "app": "Code"
+            }
+          },
+          {
+            "id": 3045,
+            "timestamp": "2026-02-13T14:37:39.954000+00:00",
+            "duration": 5.223,
+            "data": {
+              "title": "abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 3044,
+            "timestamp": "2026-02-13T14:37:21.613000+00:00",
+            "duration": 18.34,
+            "data": {
+              "url": "",
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/01-foundation-setup.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 3043,
+            "timestamp": "2026-02-13T14:37:16.070000+00:00",
+            "duration": 5.542,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3042,
+            "timestamp": "2026-02-13T14:36:36.068000+00:00",
+            "duration": 40.001,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3041,
+            "timestamp": "2026-02-13T14:36:33.267000+00:00",
+            "duration": 2.8,
+            "data": {
+              "title": "abishchhetri — zai — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3040,
+            "timestamp": "2026-02-13T14:36:27.666000+00:00",
+            "duration": 5.6,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal ▸ zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3039,
+            "timestamp": "2026-02-13T14:36:25.113000+00:00",
+            "duration": 2.552,
+            "data": {
+              "title": "",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3038,
+            "timestamp": "2026-02-13T14:36:06.072000+00:00",
+            "duration": 19.04,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3037,
+            "timestamp": "2026-02-13T14:35:56.071000+00:00",
+            "duration": 10,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3036,
+            "timestamp": "2026-02-13T14:35:47.756000+00:00",
+            "duration": 8.314,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal ▸ git-remote-https — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3035,
+            "timestamp": "2026-02-13T14:35:47.185000+00:00",
+            "duration": 0.57,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — node ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3034,
+            "timestamp": "2026-02-13T14:35:16.072000+00:00",
+            "duration": 31.112,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3033,
+            "timestamp": "2026-02-13T14:35:10.626000+00:00",
+            "duration": 5.445,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3032,
+            "timestamp": "2026-02-13T14:34:36.069000+00:00",
+            "duration": 34.556,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3031,
+            "timestamp": "2026-02-13T14:34:25.643000+00:00",
+            "duration": 10.425,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal ▸ bash — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3030,
+            "timestamp": "2026-02-13T14:34:06.073000+00:00",
+            "duration": 19.569,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3029,
+            "timestamp": "2026-02-13T14:34:05.498000+00:00",
+            "duration": 0.574,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal ▸ zsh — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3028,
+            "timestamp": "2026-02-13T14:32:52.178000+00:00",
+            "duration": 73.319,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3027,
+            "timestamp": "2026-02-13T14:32:50.493000+00:00",
+            "duration": 1.684,
+            "data": {
+              "app": "Code",
+              "title": "00-overview.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 3026,
+            "timestamp": "2026-02-13T14:32:46.861000+00:00",
+            "duration": 3.631,
+            "data": {
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/01-foundation-setup.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 3025,
+            "timestamp": "2026-02-13T14:32:21.182000+00:00",
+            "duration": 25.678,
+            "data": {
+              "app": "Code",
+              "title": "00-overview.md — caplyst-frontend"
+            }
+          },
+          {
+            "id": 3024,
+            "timestamp": "2026-02-13T14:32:12.408000+00:00",
+            "duration": 8.773,
+            "data": {
+              "title": "Plan_of_action_FE-caplyst/Plan_of_action_FE-caplyst/01-foundation-setup.md at main · abishchhetri-svg/Plan_of_action_FE-caplyst - Google Chrome – Abish (theventureforge.com)",
+              "app": "Google Chrome",
+              "url": ""
+            }
+          },
+          {
+            "id": 3023,
+            "timestamp": "2026-02-13T14:32:09.761000+00:00",
+            "duration": 2.646,
+            "data": {
+              "app": "Google Chrome",
+              "title": "abishchhetri-svg/Tasks - Google Chrome – Abish (theventureforge.com)",
+              "url": ""
+            }
+          },
+          {
+            "id": 3022,
+            "timestamp": "2026-02-13T14:32:08.006000+00:00",
+            "duration": 1.754,
+            "data": {
+              "title": "Emulated Store Explanation - Google Chrome – Abish (theventureforge.com)",
+              "url": "",
+              "app": "Google Chrome"
+            }
+          },
+          {
+            "id": 3021,
+            "timestamp": "2026-02-13T14:30:36.070000+00:00",
+            "duration": 91.935,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3020,
+            "timestamp": "2026-02-13T14:30:33.461000+00:00",
+            "duration": 2.608,
+            "data": {
+              "title": "abishchhetri — zai — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3019,
+            "timestamp": "2026-02-13T14:30:16.066000+00:00",
+            "duration": 17.394,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3018,
+            "timestamp": "2026-02-13T14:30:08.041000+00:00",
+            "duration": 8.024,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ bash — 236×61"
+            }
+          },
+          {
+            "id": 3017,
+            "timestamp": "2026-02-13T14:29:56.072000+00:00",
+            "duration": 11.968,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3016,
+            "timestamp": "2026-02-13T14:29:54.624000+00:00",
+            "duration": 1.447,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ bash — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3015,
+            "timestamp": "2026-02-13T14:29:46.573000+00:00",
+            "duration": 8.05,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ zsh — 236×61"
+            }
+          },
+          {
+            "id": 3014,
+            "timestamp": "2026-02-13T14:29:46.069000+00:00",
+            "duration": 0.503,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn/ui command component — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3013,
+            "timestamp": "2026-02-13T14:28:36.067000+00:00",
+            "duration": 70.001,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3012,
+            "timestamp": "2026-02-13T14:28:26.071000+00:00",
+            "duration": 9.995,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3011,
+            "timestamp": "2026-02-13T14:28:23.241000+00:00",
+            "duration": 2.829,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3010,
+            "timestamp": "2026-02-13T14:28:16.072000+00:00",
+            "duration": 7.168,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3009,
+            "timestamp": "2026-02-13T14:28:09.780000+00:00",
+            "duration": 6.291,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3008,
+            "timestamp": "2026-02-13T14:27:36.070000+00:00",
+            "duration": 33.709,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3007,
+            "timestamp": "2026-02-13T14:27:27.952000+00:00",
+            "duration": 8.117,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3006,
+            "timestamp": "2026-02-13T14:27:26.073000+00:00",
+            "duration": 1.878,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3005,
+            "timestamp": "2026-02-13T14:26:46.067000+00:00",
+            "duration": 40.005,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3004,
+            "timestamp": "2026-02-13T14:26:44.624000+00:00",
+            "duration": 1.442,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 3003,
+            "timestamp": "2026-02-13T14:26:43.860000+00:00",
+            "duration": 0.763,
+            "data": {
+              "title": "abishchhetri — zai — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3002,
+            "timestamp": "2026-02-13T14:26:36.070000+00:00",
+            "duration": 7.789,
+            "data": {
+              "title": "abishchhetri — ✳ shadcn components count — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3001,
+            "timestamp": "2026-02-13T14:25:56.069000+00:00",
+            "duration": 40,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 3000,
+            "timestamp": "2026-02-13T14:25:46.072000+00:00",
+            "duration": 9.996,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — ✳ Analyze Terminal Code — claude TERM_PROGRAM=Apple_Terminal — 236×61"
+            }
+          },
+          {
+            "id": 2999,
+            "timestamp": "2026-02-13T14:25:37.694000+00:00",
+            "duration": 8.377,
+            "data": {
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
+              "app": "Terminal"
+            }
+          },
+          {
+            "id": 2998,
+            "timestamp": "2026-02-13T14:25:36.470000+00:00",
+            "duration": 1.223,
+            "data": {
+              "app": "Terminal",
+              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ head — 236×61"
+            }
+          },
+          {
             "id": 2997,
             "timestamp": "2026-02-13T14:25:35.951000+00:00",
-            "duration": 0,
+            "duration": 0.518,
             "data": {
               "app": "Terminal",
               "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
@@ -3827,799 +4616,6 @@
               "title": "abishchhetri — ✳ shadcn implementation check — claude TERM_PROGRAM=Apple_Terminal — 236×61",
               "app": "Terminal"
             }
-          },
-          {
-            "id": 2571,
-            "timestamp": "2026-02-13T11:59:59.132000+00:00",
-            "duration": 6.892,
-            "data": {
-              "title": "abishchhetri — ✳ Implementation timing — claude TERM_PROGRAM=Apple_Terminal — 236×59",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2570,
-            "timestamp": "2026-02-13T11:59:56.024000+00:00",
-            "duration": 3.107,
-            "data": {
-              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2569,
-            "timestamp": "2026-02-13T11:59:41.234000+00:00",
-            "duration": 14.789,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2568,
-            "timestamp": "2026-02-13T11:59:36.930000+00:00",
-            "duration": 4.303,
-            "data": {
-              "url": "",
-              "app": "Google Chrome",
-              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)"
-            }
-          },
-          {
-            "id": 2567,
-            "timestamp": "2026-02-13T11:59:36.023000+00:00",
-            "duration": 0.906,
-            "data": {
-              "title": "09-migration-path.md — caplyst-frontend",
-              "app": "Code"
-            }
-          },
-          {
-            "id": 2566,
-            "timestamp": "2026-02-13T11:59:03.036000+00:00",
-            "duration": 32.986,
-            "data": {
-              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
-              "app": "Code"
-            }
-          },
-          {
-            "id": 2565,
-            "timestamp": "2026-02-13T11:59:01.943000+00:00",
-            "duration": 1.092,
-            "data": {
-              "title": "",
-              "app": "Code"
-            }
-          },
-          {
-            "id": 2564,
-            "timestamp": "2026-02-13T11:58:56.711000+00:00",
-            "duration": 5.231,
-            "data": {
-              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
-              "app": "Code"
-            }
-          },
-          {
-            "id": 2563,
-            "timestamp": "2026-02-13T11:58:55.198000+00:00",
-            "duration": 1.512,
-            "data": {
-              "title": "",
-              "app": "Code"
-            }
-          },
-          {
-            "id": 2562,
-            "timestamp": "2026-02-13T11:58:44.915000+00:00",
-            "duration": 10.282,
-            "data": {
-              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
-              "app": "Code"
-            }
-          },
-          {
-            "id": 2561,
-            "timestamp": "2026-02-13T11:57:56.026000+00:00",
-            "duration": 48.888,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ shadcn implementation check — claude TERM_PROGRAM=Apple_Terminal — 236×61"
-            }
-          },
-          {
-            "id": 2560,
-            "timestamp": "2026-02-13T11:57:37.248000+00:00",
-            "duration": 18.777,
-            "data": {
-              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2559,
-            "timestamp": "2026-02-13T11:57:37.234000+00:00",
-            "duration": 0,
-            "data": {
-              "title": "abishchhetri — eza — -zsh — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2558,
-            "timestamp": "2026-02-13T11:57:36.029000+00:00",
-            "duration": 1.218,
-            "data": {
-              "title": "Terminal — login — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2557,
-            "timestamp": "2026-02-13T11:57:32.937000+00:00",
-            "duration": 3.091,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2556,
-            "timestamp": "2026-02-13T11:57:32.384000+00:00",
-            "duration": 0.552,
-            "data": {
-              "app": "Code",
-              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend"
-            }
-          },
-          {
-            "id": 2555,
-            "timestamp": "2026-02-13T11:57:29.567000+00:00",
-            "duration": 2.816,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2554,
-            "timestamp": "2026-02-13T11:57:10.765000+00:00",
-            "duration": 18.801,
-            "data": {
-              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
-              "app": "Code"
-            }
-          },
-          {
-            "id": 2553,
-            "timestamp": "2026-02-13T11:57:08.833000+00:00",
-            "duration": 1.931,
-            "data": {
-              "title": "abishchhetri — ✳ shadcn implementation check — git ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2552,
-            "timestamp": "2026-02-13T11:57:06.025000+00:00",
-            "duration": 2.807,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2551,
-            "timestamp": "2026-02-13T11:57:01.502000+00:00",
-            "duration": 4.522,
-            "data": {
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ path_helper — 236×59",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2550,
-            "timestamp": "2026-02-13T11:56:46.021000+00:00",
-            "duration": 15.48,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2549,
-            "timestamp": "2026-02-13T11:56:39.179000+00:00",
-            "duration": 6.841,
-            "data": {
-              "title": "abishchhetri — ✳ shadcn implementation check — rg ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2548,
-            "timestamp": "2026-02-13T11:56:26.020000+00:00",
-            "duration": 13.158,
-            "data": {
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2547,
-            "timestamp": "2026-02-13T11:56:25.023000+00:00",
-            "duration": 0.996,
-            "data": {
-              "title": "abishchhetri — ✳ shadcn implementation check — claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2546,
-            "timestamp": "2026-02-13T11:55:36.023000+00:00",
-            "duration": 48.999,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
-            }
-          },
-          {
-            "id": 2545,
-            "timestamp": "2026-02-13T11:55:26.139000+00:00",
-            "duration": 9.883,
-            "data": {
-              "title": "",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2544,
-            "timestamp": "2026-02-13T11:55:26.135000+00:00",
-            "duration": 0,
-            "data": {
-              "app": "Terminal",
-              "title": ""
-            }
-          },
-          {
-            "id": 2543,
-            "timestamp": "2026-02-13T11:55:06.024000+00:00",
-            "duration": 20.114,
-            "data": {
-              "app": "Terminal",
-              "title": "Plan_of_action_FE-caplyst — pbcopy — pbcopy — 236×61"
-            }
-          },
-          {
-            "id": 2542,
-            "timestamp": "2026-02-13T11:55:04.654000+00:00",
-            "duration": 1.369,
-            "data": {
-              "title": "Plan_of_action_FE-caplyst — pbcopy — -zsh — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2541,
-            "timestamp": "2026-02-13T11:54:59.555000+00:00",
-            "duration": 5.098,
-            "data": {
-              "app": "Terminal",
-              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
-            }
-          },
-          {
-            "id": 2540,
-            "timestamp": "2026-02-13T11:54:57.826000+00:00",
-            "duration": 1.728,
-            "data": {
-              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
-              "app": "Code"
-            }
-          },
-          {
-            "id": 2539,
-            "timestamp": "2026-02-13T11:54:07.353000+00:00",
-            "duration": 50.472,
-            "data": {
-              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)",
-              "url": "",
-              "app": "Google Chrome"
-            }
-          },
-          {
-            "id": 2538,
-            "timestamp": "2026-02-13T11:54:03.521000+00:00",
-            "duration": 3.831,
-            "data": {
-              "title": "08-testing.md (Working Tree) (08-testing.md) — caplyst-frontend",
-              "app": "Code"
-            }
-          },
-          {
-            "id": 2537,
-            "timestamp": "2026-02-13T11:53:59.704000+00:00",
-            "duration": 3.816,
-            "data": {
-              "app": "Terminal",
-              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — pbcopy — 236×61"
-            }
-          },
-          {
-            "id": 2536,
-            "timestamp": "2026-02-13T11:53:56.024000+00:00",
-            "duration": 3.679,
-            "data": {
-              "title": "Plan_of_action_FE-caplyst — pbcopy — pbcopy — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2535,
-            "timestamp": "2026-02-13T11:53:46.026000+00:00",
-            "duration": 9.997,
-            "data": {
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2534,
-            "timestamp": "2026-02-13T11:53:42.679000+00:00",
-            "duration": 3.346,
-            "data": {
-              "app": "Terminal",
-              "title": "Plan_of_action_FE-caplyst — pbcopy — pbcopy — 236×61"
-            }
-          },
-          {
-            "id": 2533,
-            "timestamp": "2026-02-13T11:53:40.208000+00:00",
-            "duration": 2.47,
-            "data": {
-              "url": "",
-              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)",
-              "app": "Google Chrome"
-            }
-          },
-          {
-            "id": 2532,
-            "timestamp": "2026-02-13T11:53:36.571000+00:00",
-            "duration": 3.636,
-            "data": {
-              "app": "Terminal",
-              "title": "Plan_of_action_FE-caplyst — pbcopy — -zsh — 236×61"
-            }
-          },
-          {
-            "id": 2531,
-            "timestamp": "2026-02-13T11:53:32.269000+00:00",
-            "duration": 4.301,
-            "data": {
-              "app": "Terminal",
-              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
-            }
-          },
-          {
-            "id": 2530,
-            "timestamp": "2026-02-13T11:53:26.029000+00:00",
-            "duration": 6.239,
-            "data": {
-              "app": "Google Chrome",
-              "url": "",
-              "title": "Copy Current Path Command - Google Chrome – Abish (theventureforge.com)"
-            }
-          },
-          {
-            "id": 2529,
-            "timestamp": "2026-02-13T11:53:16.950000+00:00",
-            "duration": 9.078,
-            "data": {
-              "app": "Google Chrome",
-              "url": "",
-              "title": "Copy current path command - Google Chrome – Abish (theventureforge.com)"
-            }
-          },
-          {
-            "id": 2528,
-            "timestamp": "2026-02-13T11:52:51.922000+00:00",
-            "duration": 25.027,
-            "data": {
-              "title": "ChatGPT - Google Chrome – Abish (theventureforge.com)",
-              "app": "Google Chrome",
-              "url": ""
-            }
-          },
-          {
-            "id": 2527,
-            "timestamp": "2026-02-13T11:52:50.656000+00:00",
-            "duration": 1.265,
-            "data": {
-              "app": "Terminal",
-              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
-            }
-          },
-          {
-            "id": 2526,
-            "timestamp": "2026-02-13T11:52:46.900000+00:00",
-            "duration": 3.755,
-            "data": {
-              "title": "ChatGPT - Google Chrome – Abish (theventureforge.com)",
-              "app": "Google Chrome",
-              "url": ""
-            }
-          },
-          {
-            "id": 2525,
-            "timestamp": "2026-02-13T11:52:34.404000+00:00",
-            "duration": 12.495,
-            "data": {
-              "url": "",
-              "title": "",
-              "app": "Google Chrome"
-            }
-          },
-          {
-            "id": 2524,
-            "timestamp": "2026-02-13T11:52:30.780000+00:00",
-            "duration": 3.623,
-            "data": {
-              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)",
-              "app": "Google Chrome",
-              "url": ""
-            }
-          },
-          {
-            "id": 2523,
-            "timestamp": "2026-02-13T11:52:28.488000+00:00",
-            "duration": 2.291,
-            "data": {
-              "app": "Terminal",
-              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
-            }
-          },
-          {
-            "id": 2522,
-            "timestamp": "2026-02-13T11:52:28.486000+00:00",
-            "duration": 0,
-            "data": {
-              "app": "Terminal",
-              "title": "Plan_of_action_FE-caplyst — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
-            }
-          },
-          {
-            "id": 2521,
-            "timestamp": "2026-02-13T11:52:26.032000+00:00",
-            "duration": 2.455,
-            "data": {
-              "title": "caplyst-frontend — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2520,
-            "timestamp": "2026-02-13T11:52:15.258000+00:00",
-            "duration": 10.773,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
-            }
-          },
-          {
-            "id": 2519,
-            "timestamp": "2026-02-13T11:52:14.073000+00:00",
-            "duration": 1.184,
-            "data": {
-              "app": "Google Chrome",
-              "url": "",
-              "title": "Company Registration Sign-up Flow – Figma Make - Google Chrome – Abish (theventureforge.com)"
-            }
-          },
-          {
-            "id": 2518,
-            "timestamp": "2026-02-13T11:52:07.607000+00:00",
-            "duration": 6.465,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2517,
-            "timestamp": "2026-02-13T11:52:06.027000+00:00",
-            "duration": 1.579,
-            "data": {
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2516,
-            "timestamp": "2026-02-13T11:52:04.647000+00:00",
-            "duration": 1.379,
-            "data": {
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ react lucide-react date-fns clsx — 236×59",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2515,
-            "timestamp": "2026-02-13T11:52:02.584000+00:00",
-            "duration": 2.062,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ node — 236×59"
-            }
-          },
-          {
-            "id": 2514,
-            "timestamp": "2026-02-13T11:51:56.024000+00:00",
-            "duration": 6.559,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
-            }
-          },
-          {
-            "id": 2513,
-            "timestamp": "2026-02-13T11:51:49.002000+00:00",
-            "duration": 7.021,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ npm install — 236×59"
-            }
-          },
-          {
-            "id": 2512,
-            "timestamp": "2026-02-13T11:51:48.472000+00:00",
-            "duration": 0.529,
-            "data": {
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ node-gyp — 236×59",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2511,
-            "timestamp": "2026-02-13T11:51:45.434000+00:00",
-            "duration": 3.037,
-            "data": {
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2510,
-            "timestamp": "2026-02-13T11:51:44.779000+00:00",
-            "duration": 0.654,
-            "data": {
-              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2509,
-            "timestamp": "2026-02-13T11:51:42.621000+00:00",
-            "duration": 2.157,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
-            }
-          },
-          {
-            "id": 2508,
-            "timestamp": "2026-02-13T11:51:41.570000+00:00",
-            "duration": 1.05,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
-            }
-          },
-          {
-            "id": 2507,
-            "timestamp": "2026-02-13T11:51:40.081000+00:00",
-            "duration": 1.488,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — grep ◂ claude TERM_PROGRAM=Apple_Terminal — 236×61"
-            }
-          },
-          {
-            "id": 2506,
-            "timestamp": "2026-02-13T11:51:39.359000+00:00",
-            "duration": 0.721,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — -zsh — 236×61"
-            }
-          },
-          {
-            "id": 2505,
-            "timestamp": "2026-02-13T11:51:36.028000+00:00",
-            "duration": 3.33,
-            "data": {
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2504,
-            "timestamp": "2026-02-13T11:51:34.954000+00:00",
-            "duration": 1.073,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ npm install — 236×59"
-            }
-          },
-          {
-            "id": 2503,
-            "timestamp": "2026-02-13T11:51:33.424000+00:00",
-            "duration": 1.529,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2502,
-            "timestamp": "2026-02-13T11:51:26.025000+00:00",
-            "duration": 7.398,
-            "data": {
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2501,
-            "timestamp": "2026-02-13T11:51:23.295000+00:00",
-            "duration": 2.729,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — osascript ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2500,
-            "timestamp": "2026-02-13T11:50:56.024000+00:00",
-            "duration": 27.27,
-            "data": {
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2499,
-            "timestamp": "2026-02-13T11:50:47.311000+00:00",
-            "duration": 8.712,
-            "data": {
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ bash — 236×59",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2498,
-            "timestamp": "2026-02-13T11:50:46.026000+00:00",
-            "duration": 1.284,
-            "data": {
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2497,
-            "timestamp": "2026-02-13T11:50:38.957000+00:00",
-            "duration": 7.068,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — npm ◂ claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2496,
-            "timestamp": "2026-02-13T11:50:36.025000+00:00",
-            "duration": 2.931,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2495,
-            "timestamp": "2026-02-13T11:50:20.066000+00:00",
-            "duration": 15.958,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61"
-            }
-          },
-          {
-            "id": 2493,
-            "timestamp": "2026-02-13T11:50:17.808000+00:00",
-            "duration": 2.238,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ ps — 236×59"
-            }
-          },
-          {
-            "id": 2494,
-            "timestamp": "2026-02-13T11:50:17.808000+00:00",
-            "duration": 2.257,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal ▸ ps — 236×59"
-            }
-          },
-          {
-            "id": 2492,
-            "timestamp": "2026-02-13T11:50:16.022000+00:00",
-            "duration": 1.785,
-            "data": {
-              "title": "abishchhetri — abishchhetri@Abishs-MacBook-Air — -zsh — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2491,
-            "timestamp": "2026-02-13T11:50:06.025000+00:00",
-            "duration": 9.996,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — ✳ Customizing color palette — claude TERM_PROGRAM=Apple_Terminal — 236×59"
-            }
-          },
-          {
-            "id": 2490,
-            "timestamp": "2026-02-13T11:49:58.082000+00:00",
-            "duration": 7.942,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ node — 236×61"
-            }
-          },
-          {
-            "id": 2489,
-            "timestamp": "2026-02-13T11:49:57.259000+00:00",
-            "duration": 0.822,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ zsh — 236×61"
-            }
-          },
-          {
-            "id": 2488,
-            "timestamp": "2026-02-13T11:49:50.110000+00:00",
-            "duration": 7.148,
-            "data": {
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61",
-              "app": "Terminal"
-            }
-          },
-          {
-            "id": 2487,
-            "timestamp": "2026-02-13T11:49:45.085000+00:00",
-            "duration": 5.024,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ node — 236×61"
-            }
-          },
-          {
-            "id": 2486,
-            "timestamp": "2026-02-13T11:49:27.065000+00:00",
-            "duration": 18.019,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal — 236×61"
-            }
-          },
-          {
-            "id": 2485,
-            "timestamp": "2026-02-13T11:49:26.022000+00:00",
-            "duration": 1.042,
-            "data": {
-              "app": "Terminal",
-              "title": "abishchhetri — zai — claude TERM_PROGRAM=Apple_Terminal ▸ node — 236×61"
-            }
           }
         ]
       },
@@ -4632,13 +4628,13 @@
           "client": "aw-watcher-afk",
           "hostname": "Abishs-MacBook-Air.local",
           "data": {},
-          "last_updated": "2026-02-13T14:25:34.348000+00:00"
+          "last_updated": "2026-02-13T14:48:01.989000+00:00"
         },
         "events": [
           {
             "id": 2987,
             "timestamp": "2026-02-13T14:20:40.060000+00:00",
-            "duration": 294.288,
+            "duration": 1641.929,
             "data": {
               "status": "not-afk"
             }
@@ -5439,22 +5435,33 @@
     }
   },
   "gitActivity": {
-    "totalCommits": 0,
-    "byProject": {},
-    "commits": []
+    "totalCommits": 2,
+    "byProject": {
+      "Tasks": 2
+    },
+    "commits": [
+      {
+        "project": "Tasks",
+        "message": "babc0d3 feat: add environment variable handling for API key security"
+      },
+      {
+        "project": "Tasks",
+        "message": "1fe4119 chore: activity data update 2026-02-13"
+      }
+    ]
   },
   "summary": {
     "topApps": {
-      "Terminal": 6653.181,
-      "Code": 1361.0710000000001,
-      "Google Chrome": 1128.3449999999998,
+      "Terminal": 7502.033999999997,
+      "Code": 1314.2320000000002,
+      "Google Chrome": 1050.0659999999998,
       "SecurityAgent": 178.759,
       "Finder": 50.18
     },
     "topWebsites": {},
-    "totalActiveTime": 9371.53599999999,
+    "totalActiveTime": 10095.271000000002,
     "afkTime": 43096.567079999986,
-    "activeHours": "2.60",
+    "activeHours": "2.80",
     "afkHours": "11.97"
   },
   "manualTasks": []
